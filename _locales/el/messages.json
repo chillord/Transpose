@@ -1,0 +1,116 @@
+{
+   "appDesc": {
+      "message": "Άλλαξε τονικό ύψος και ταχύτητα, επανάλαβε περάσματα και μελέτησε μουσική στο YouTube, Spotify και άλλα υποστηριζόμενα sites."
+   },
+   "appName": {
+      "message": "Transpose: pitch ▸ speed ▸ loop"
+   },
+   "appShortName": {
+      "message": "Transpose"
+   },
+   "extensionMenuOpenCompact": {
+      "message": "Άνοιγμα Compact"
+   },
+   "extensionMenuOpenSide": {
+      "message": "Άνοιγμα Side"
+   },
+   "extensionMenuSettings": {
+      "message": "Ρυθμίσεις"
+   },
+   "extensionMenuSupport": {
+      "message": "Υποστήριξη"
+   },
+   "shortcut_addMarker": {
+      "message": "Προσθήκη Marker"
+   },
+   "shortcut_formantDown": {
+      "message": "Formant κάτω"
+   },
+   "shortcut_formantUp": {
+      "message": "Formant πάνω"
+   },
+   "shortcut_marker1": {
+      "message": "marker 1"
+   },
+   "shortcut_marker2": {
+      "message": "marker 2"
+   },
+   "shortcut_marker3": {
+      "message": "marker 3"
+   },
+   "shortcut_marker4": {
+      "message": "marker 4"
+   },
+   "shortcut_marker5": {
+      "message": "marker 5"
+   },
+   "shortcut_marker6": {
+      "message": "marker 6"
+   },
+   "shortcut_marker7": {
+      "message": "marker 7"
+   },
+   "shortcut_marker8": {
+      "message": "marker 8"
+   },
+   "shortcut_marker9": {
+      "message": "marker 9"
+   },
+   "shortcut_nextMarker": {
+      "message": "Επόμενος δείκτης"
+   },
+   "shortcut_pitchDown": {
+      "message": "Pitch κάτω"
+   },
+   "shortcut_pitchUp": {
+      "message": "Pitch πάνω"
+   },
+   "shortcut_playPause": {
+      "message": "Αναπαραγωγή/Παύση"
+   },
+   "shortcut_previousBoundary": {
+      "message": "Επιστροφή στην αρχή του βρόχου ή του τραγουδιού"
+   },
+   "shortcut_reducerAmountDown": {
+      "message": "Λιγότερο Vocal Reducer"
+   },
+   "shortcut_reducerAmountUp": {
+      "message": "Περισσότερο Vocal Reducer"
+   },
+   "shortcut_seekBackward": {
+      "message": "Μετακίνηση πίσω"
+   },
+   "shortcut_seekForward": {
+      "message": "Μετακίνηση μπροστά"
+   },
+   "shortcut_speedDown": {
+      "message": "Μείωση ταχύτητας"
+   },
+   "shortcut_speedUp": {
+      "message": "Αύξηση ταχύτητας"
+   },
+   "shortcut_toggleAbLoop": {
+      "message": "A/B"
+   },
+   "shortcut_toggleEq": {
+      "message": "Equalizer On/Off"
+   },
+   "shortcut_toggleLoop": {
+      "message": "Loop On/Off"
+   },
+   "shortcut_toggleVocalReducer": {
+      "message": "Vocal Reducer On/Off"
+   },
+   "shortcut_transposeDown": {
+      "message": "Transpose κάτω"
+   },
+   "shortcut_transposeUp": {
+      "message": "Transpose πάνω"
+   },
+   "shortcut_volumeDown": {
+      "message": "Μείωση έντασης"
+   },
+   "shortcut_volumeUp": {
+      "message": "Αύξηση έντασης"
+   }
+}

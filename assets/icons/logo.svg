@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-labelledby="title desc">
+  <title id="title">Transpose</title>
+  <desc id="desc">Rounded yellow square with two rounded black triangles pointing up and down, forming a diamond shape with a light open middle.</desc>
+
+  <rect x="2" y="2" width="96" height="96" rx="18" ry="18" fill="#fbc02d"/>
+
+  <path d="M50 18 L29 42 H71 Z" fill="#111" stroke="#111" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M50 82 L29 58 H71 Z" fill="#111" stroke="#111" stroke-width="8" stroke-linejoin="round"/>
+</svg>

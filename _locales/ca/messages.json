@@ -1,0 +1,116 @@
+{
+   "appDesc": {
+      "message": "Canvia el to i la velocitat, repeteix passatges i practica música a YouTube, Spotify i altres llocs compatibles."
+   },
+   "appName": {
+      "message": "Transpose: pitch ▸ speed ▸ loop"
+   },
+   "appShortName": {
+      "message": "Transpose"
+   },
+   "extensionMenuOpenCompact": {
+      "message": "Obre Compact"
+   },
+   "extensionMenuOpenSide": {
+      "message": "Obre Side"
+   },
+   "extensionMenuSettings": {
+      "message": "Configuració"
+   },
+   "extensionMenuSupport": {
+      "message": "Assistència"
+   },
+   "shortcut_addMarker": {
+      "message": "Afegeix Marker"
+   },
+   "shortcut_formantDown": {
+      "message": "Formant -"
+   },
+   "shortcut_formantUp": {
+      "message": "Formant +"
+   },
+   "shortcut_marker1": {
+      "message": "Marker 1"
+   },
+   "shortcut_marker2": {
+      "message": "Marker 2"
+   },
+   "shortcut_marker3": {
+      "message": "Marker 3"
+   },
+   "shortcut_marker4": {
+      "message": "Marker 4"
+   },
+   "shortcut_marker5": {
+      "message": "Marker 5"
+   },
+   "shortcut_marker6": {
+      "message": "Marker 6"
+   },
+   "shortcut_marker7": {
+      "message": "Marker 7"
+   },
+   "shortcut_marker8": {
+      "message": "Marker 8"
+   },
+   "shortcut_marker9": {
+      "message": "Marker 9"
+   },
+   "shortcut_nextMarker": {
+      "message": "Marcador següent"
+   },
+   "shortcut_pitchDown": {
+      "message": "Pitch −"
+   },
+   "shortcut_pitchUp": {
+      "message": "Pitch +"
+   },
+   "shortcut_playPause": {
+      "message": "Reprodueix/Pausa"
+   },
+   "shortcut_previousBoundary": {
+      "message": "Torna a l’inici del bucle o de la cançó"
+   },
+   "shortcut_reducerAmountDown": {
+      "message": "Redueix Vocal Reducer"
+   },
+   "shortcut_reducerAmountUp": {
+      "message": "Augmenta Vocal Reducer"
+   },
+   "shortcut_seekBackward": {
+      "message": "Rebobinar"
+   },
+   "shortcut_seekForward": {
+      "message": "Avanç ràpid"
+   },
+   "shortcut_speedDown": {
+      "message": "Velocitat −"
+   },
+   "shortcut_speedUp": {
+      "message": "Velocitat +"
+   },
+   "shortcut_toggleAbLoop": {
+      "message": "A/B"
+   },
+   "shortcut_toggleEq": {
+      "message": "Equalitzador Activat/Desactivat"
+   },
+   "shortcut_toggleLoop": {
+      "message": "Canvia Loop"
+   },
+   "shortcut_toggleVocalReducer": {
+      "message": "Activa o desactiva Vocal Reducer"
+   },
+   "shortcut_transposeDown": {
+      "message": "Transpose −"
+   },
+   "shortcut_transposeUp": {
+      "message": "Transpose +"
+   },
+   "shortcut_volumeDown": {
+      "message": "Baixa el volum"
+   },
+   "shortcut_volumeUp": {
+      "message": "Apuja el volum"
+   }
+}

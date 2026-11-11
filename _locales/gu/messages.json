@@ -1,0 +1,116 @@
+{
+   "appDesc": {
+      "message": "YouTube, Spotify અને અન્ય સમર્થિત સાઇટો પર પિચ અને ઝડપ બદલો, ભાગો ફરી સાંભળો અને સંગીતનો અભ્યાસ કરો."
+   },
+   "appName": {
+      "message": "Transpose: પિચ ▸ ઝડપ ▸ લૂપ"
+   },
+   "appShortName": {
+      "message": "Transpose"
+   },
+   "extensionMenuOpenCompact": {
+      "message": "Compact ખોલો"
+   },
+   "extensionMenuOpenSide": {
+      "message": "Studio ને Side માં ખોલો"
+   },
+   "extensionMenuSettings": {
+      "message": "સેટિંગ્સ"
+   },
+   "extensionMenuSupport": {
+      "message": "સહાય"
+   },
+   "shortcut_addMarker": {
+      "message": "માર્કર ઉમેરો"
+   },
+   "shortcut_formantDown": {
+      "message": "ફોર્મન્ટ ઘટાડો"
+   },
+   "shortcut_formantUp": {
+      "message": "ફોર્મન્ટ વધારો"
+   },
+   "shortcut_marker1": {
+      "message": "માર્કર ૧"
+   },
+   "shortcut_marker2": {
+      "message": "માર્કર ૨"
+   },
+   "shortcut_marker3": {
+      "message": "માર્કર ૩"
+   },
+   "shortcut_marker4": {
+      "message": "માર્કર ૪"
+   },
+   "shortcut_marker5": {
+      "message": "માર્કર ૫"
+   },
+   "shortcut_marker6": {
+      "message": "માર્કર ૬"
+   },
+   "shortcut_marker7": {
+      "message": "માર્કર ૭"
+   },
+   "shortcut_marker8": {
+      "message": "માર્કર ૮"
+   },
+   "shortcut_marker9": {
+      "message": "માર્કર ૯"
+   },
+   "shortcut_nextMarker": {
+      "message": "આગલો માર્કર"
+   },
+   "shortcut_pitchDown": {
+      "message": "પિચ ઘટાડો"
+   },
+   "shortcut_pitchUp": {
+      "message": "પિચ વધારો"
+   },
+   "shortcut_playPause": {
+      "message": "ચલાવો/થોભાવો"
+   },
+   "shortcut_previousBoundary": {
+      "message": "લૂપ અથવા ગીતની શરૂઆત પર પાછા જાઓ"
+   },
+   "shortcut_reducerAmountDown": {
+      "message": "Vocal Reducer ઘટાડો"
+   },
+   "shortcut_reducerAmountUp": {
+      "message": "Vocal Reducer વધારો"
+   },
+   "shortcut_seekBackward": {
+      "message": "પાછળ જાઓ"
+   },
+   "shortcut_seekForward": {
+      "message": "આગળ જાઓ"
+   },
+   "shortcut_speedDown": {
+      "message": "સ્પીડ ઘટાડો"
+   },
+   "shortcut_speedUp": {
+      "message": "સ્પીડ વધારો"
+   },
+   "shortcut_toggleAbLoop": {
+      "message": "A/B"
+   },
+   "shortcut_toggleEq": {
+      "message": "ઇક્વલાઇઝર ચાલુ/બંધ"
+   },
+   "shortcut_toggleLoop": {
+      "message": "લૂપ ટૉગલ"
+   },
+   "shortcut_toggleVocalReducer": {
+      "message": "Vocal Reducer ચાલુ/બંધ કરો"
+   },
+   "shortcut_transposeDown": {
+      "message": "ટ્રાન્સપોઝ ઘટાડો"
+   },
+   "shortcut_transposeUp": {
+      "message": "ટ્રાન્સપોઝ વધારો"
+   },
+   "shortcut_volumeDown": {
+      "message": "વૉલ્યુમ ઘટાડો"
+   },
+   "shortcut_volumeUp": {
+      "message": "વૉલ્યુમ વધારો"
+   }
+}

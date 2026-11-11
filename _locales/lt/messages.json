@@ -1,0 +1,116 @@
+{
+   "appDesc": {
+      "message": "Keiskite garso aukštį ir greitį, kartokite atkarpas ir repetuokite tiesiog YouTube, Spotify bei kitose palaikomose svetainėse."
+   },
+   "appName": {
+      "message": "Transpose: garso aukštis ▸ greitis ▸ kartojimas"
+   },
+   "appShortName": {
+      "message": "Transpose"
+   },
+   "extensionMenuOpenCompact": {
+      "message": "Atidaryti Compact"
+   },
+   "extensionMenuOpenSide": {
+      "message": "Atidaryti Side"
+   },
+   "extensionMenuSettings": {
+      "message": "Nustatymai"
+   },
+   "extensionMenuSupport": {
+      "message": "Pagalba"
+   },
+   "shortcut_addMarker": {
+      "message": "Pridėti žymeklį"
+   },
+   "shortcut_formantDown": {
+      "message": "Sumažinti formant"
+   },
+   "shortcut_formantUp": {
+      "message": "Padidinti formant"
+   },
+   "shortcut_marker1": {
+      "message": "Žymeklis 1"
+   },
+   "shortcut_marker2": {
+      "message": "Žymeklis 2"
+   },
+   "shortcut_marker3": {
+      "message": "Žymeklis 3"
+   },
+   "shortcut_marker4": {
+      "message": "Žymeklis 4"
+   },
+   "shortcut_marker5": {
+      "message": "Žymeklis 5"
+   },
+   "shortcut_marker6": {
+      "message": "Žymeklis 6"
+   },
+   "shortcut_marker7": {
+      "message": "Žymeklis 7"
+   },
+   "shortcut_marker8": {
+      "message": "Žymeklis 8"
+   },
+   "shortcut_marker9": {
+      "message": "Žymeklis 9"
+   },
+   "shortcut_nextMarker": {
+      "message": "Kitas žymeklis"
+   },
+   "shortcut_pitchDown": {
+      "message": "Sumažinti aukštį"
+   },
+   "shortcut_pitchUp": {
+      "message": "Padidinti aukštį"
+   },
+   "shortcut_playPause": {
+      "message": "Groti/Pristabdyti"
+   },
+   "shortcut_previousBoundary": {
+      "message": "Grįžti į ciklo arba dainos pradžią"
+   },
+   "shortcut_reducerAmountDown": {
+      "message": "Mažiau Vocal Reducer"
+   },
+   "shortcut_reducerAmountUp": {
+      "message": "Daugiau Vocal Reducer"
+   },
+   "shortcut_seekBackward": {
+      "message": "Atsukti atgal"
+   },
+   "shortcut_seekForward": {
+      "message": "Sukti pirmyn"
+   },
+   "shortcut_speedDown": {
+      "message": "Sumažinti greitį"
+   },
+   "shortcut_speedUp": {
+      "message": "Padidinti greitį"
+   },
+   "shortcut_toggleAbLoop": {
+      "message": "A/B"
+   },
+   "shortcut_toggleEq": {
+      "message": "Ekvalaizerio įjungimas / išjungimas"
+   },
+   "shortcut_toggleLoop": {
+      "message": "Kartojimo įjungimas / išjungimas"
+   },
+   "shortcut_toggleVocalReducer": {
+      "message": "Vocal Reducer įjungimas / išjungimas"
+   },
+   "shortcut_transposeDown": {
+      "message": "Sumažinti transponavimą"
+   },
+   "shortcut_transposeUp": {
+      "message": "Padidinti transponavimą"
+   },
+   "shortcut_volumeDown": {
+      "message": "Sumažinti garsumą"
+   },
+   "shortcut_volumeUp": {
+      "message": "Padidinti garsumą"
+   }
+}

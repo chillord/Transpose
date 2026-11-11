@@ -1,0 +1,116 @@
+{
+   "appDesc": {
+      "message": "Ändra tonhöjd och hastighet, upprepa avsnitt och öva direkt på YouTube, Spotify och andra webbplatser som stöds."
+   },
+   "appName": {
+      "message": "Transpose: tonhöjd ▸ hastighet ▸ loopar"
+   },
+   "appShortName": {
+      "message": "Transpose"
+   },
+   "extensionMenuOpenCompact": {
+      "message": "Öppna Compact"
+   },
+   "extensionMenuOpenSide": {
+      "message": "Öppna Side"
+   },
+   "extensionMenuSettings": {
+      "message": "Inställningar"
+   },
+   "extensionMenuSupport": {
+      "message": "Support"
+   },
+   "shortcut_addMarker": {
+      "message": "Lägg till markör"
+   },
+   "shortcut_formantDown": {
+      "message": "Formant −"
+   },
+   "shortcut_formantUp": {
+      "message": "Formant +"
+   },
+   "shortcut_marker1": {
+      "message": "Markör 1"
+   },
+   "shortcut_marker2": {
+      "message": "Markör 2"
+   },
+   "shortcut_marker3": {
+      "message": "Markör 3"
+   },
+   "shortcut_marker4": {
+      "message": "Markör 4"
+   },
+   "shortcut_marker5": {
+      "message": "Markör 5"
+   },
+   "shortcut_marker6": {
+      "message": "Markör 6"
+   },
+   "shortcut_marker7": {
+      "message": "Markör 7"
+   },
+   "shortcut_marker8": {
+      "message": "Markör 8"
+   },
+   "shortcut_marker9": {
+      "message": "Markör 9"
+   },
+   "shortcut_nextMarker": {
+      "message": "Nästa markör"
+   },
+   "shortcut_pitchDown": {
+      "message": "Pitch −"
+   },
+   "shortcut_pitchUp": {
+      "message": "Pitch +"
+   },
+   "shortcut_playPause": {
+      "message": "Spela/Pausa"
+   },
+   "shortcut_previousBoundary": {
+      "message": "Tillbaka till loopens eller låtens början"
+   },
+   "shortcut_reducerAmountDown": {
+      "message": "Mindre Vocal Reducer"
+   },
+   "shortcut_reducerAmountUp": {
+      "message": "Mer Vocal Reducer"
+   },
+   "shortcut_seekBackward": {
+      "message": "Spola tillbaka"
+   },
+   "shortcut_seekForward": {
+      "message": "Spola fram"
+   },
+   "shortcut_speedDown": {
+      "message": "Hastighet −"
+   },
+   "shortcut_speedUp": {
+      "message": "Hastighet +"
+   },
+   "shortcut_toggleAbLoop": {
+      "message": "A/B"
+   },
+   "shortcut_toggleEq": {
+      "message": "Equalizer På/Av"
+   },
+   "shortcut_toggleLoop": {
+      "message": "Växla Loop"
+   },
+   "shortcut_toggleVocalReducer": {
+      "message": "Vocal Reducer På/Av"
+   },
+   "shortcut_transposeDown": {
+      "message": "Transponera −"
+   },
+   "shortcut_transposeUp": {
+      "message": "Transponera +"
+   },
+   "shortcut_volumeDown": {
+      "message": "Volym −"
+   },
+   "shortcut_volumeUp": {
+      "message": "Volym +"
+   }
+}

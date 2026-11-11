@@ -1,0 +1,116 @@
+{
+   "appDesc": {
+      "message": "Baguhin ang pitch at speed, ulitin ang mga bahagi, at magpraktis sa YouTube, Spotify, at iba pang suportadong site."
+   },
+   "appName": {
+      "message": "Transpose: pitch ▸ speed ▸ loop"
+   },
+   "appShortName": {
+      "message": "Transpose"
+   },
+   "extensionMenuOpenCompact": {
+      "message": "Buksan ang Compact"
+   },
+   "extensionMenuOpenSide": {
+      "message": "Buksan ang Side"
+   },
+   "extensionMenuSettings": {
+      "message": "Mga Setting"
+   },
+   "extensionMenuSupport": {
+      "message": "Suporta"
+   },
+   "shortcut_addMarker": {
+      "message": "Magdagdag ng Marker"
+   },
+   "shortcut_formantDown": {
+      "message": "Ibaba ang Formant"
+   },
+   "shortcut_formantUp": {
+      "message": "Itaas ang Formant"
+   },
+   "shortcut_marker1": {
+      "message": "Marker 1"
+   },
+   "shortcut_marker2": {
+      "message": "Marker 2"
+   },
+   "shortcut_marker3": {
+      "message": "Marker 3"
+   },
+   "shortcut_marker4": {
+      "message": "Marker 4"
+   },
+   "shortcut_marker5": {
+      "message": "Marker 5"
+   },
+   "shortcut_marker6": {
+      "message": "Marker 6"
+   },
+   "shortcut_marker7": {
+      "message": "Marker 7"
+   },
+   "shortcut_marker8": {
+      "message": "Marker 8"
+   },
+   "shortcut_marker9": {
+      "message": "Marker 9"
+   },
+   "shortcut_nextMarker": {
+      "message": "Susunod na marker"
+   },
+   "shortcut_pitchDown": {
+      "message": "Ibaba ang Pitch"
+   },
+   "shortcut_pitchUp": {
+      "message": "Itaas ang Pitch"
+   },
+   "shortcut_playPause": {
+      "message": "Play/Pause"
+   },
+   "shortcut_previousBoundary": {
+      "message": "Bumalik sa simula ng loop o kanta"
+   },
+   "shortcut_reducerAmountDown": {
+      "message": "Bawasan ang Vocal Reducer"
+   },
+   "shortcut_reducerAmountUp": {
+      "message": "Dagdagan ang Vocal Reducer"
+   },
+   "shortcut_seekBackward": {
+      "message": "Seek pabalik"
+   },
+   "shortcut_seekForward": {
+      "message": "Seek pasulong"
+   },
+   "shortcut_speedDown": {
+      "message": "Babaan ang speed"
+   },
+   "shortcut_speedUp": {
+      "message": "Itaas ang speed"
+   },
+   "shortcut_toggleAbLoop": {
+      "message": "A/B"
+   },
+   "shortcut_toggleEq": {
+      "message": "I-toggle ang Equalizer"
+   },
+   "shortcut_toggleLoop": {
+      "message": "I-toggle ang Loop"
+   },
+   "shortcut_toggleVocalReducer": {
+      "message": "I-toggle ang Vocal Reducer"
+   },
+   "shortcut_transposeDown": {
+      "message": "Ibaba ang Transpose"
+   },
+   "shortcut_transposeUp": {
+      "message": "Itaas ang Transpose"
+   },
+   "shortcut_volumeDown": {
+      "message": "Babaan ang volume"
+   },
+   "shortcut_volumeUp": {
+      "message": "Itaas ang volume"
+   }
+}

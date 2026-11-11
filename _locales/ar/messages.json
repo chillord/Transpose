@@ -1,0 +1,116 @@
+{
+   "appDesc": {
+      "message": "غيّر حدة الصوت والسرعة، وكرّر المقاطع وتمرّن على الموسيقى مباشرةً في YouTube وSpotify والمواقع المدعومة الأخرى."
+   },
+   "appName": {
+      "message": "Transpose: pitch ▸ speed ▸ loop"
+   },
+   "appShortName": {
+      "message": "Transpose"
+   },
+   "extensionMenuOpenCompact": {
+      "message": "فتح Compact"
+   },
+   "extensionMenuOpenSide": {
+      "message": "فتح Side"
+   },
+   "extensionMenuSettings": {
+      "message": "الإعدادات"
+   },
+   "extensionMenuSupport": {
+      "message": "الدعم"
+   },
+   "shortcut_addMarker": {
+      "message": "إضافة علامة"
+   },
+   "shortcut_formantDown": {
+      "message": "خفض الفورمانت"
+   },
+   "shortcut_formantUp": {
+      "message": "رفع الفورمانت"
+   },
+   "shortcut_marker1": {
+      "message": "علامة 1"
+   },
+   "shortcut_marker2": {
+      "message": "علامة 2"
+   },
+   "shortcut_marker3": {
+      "message": "علامة 3"
+   },
+   "shortcut_marker4": {
+      "message": "علامة 4"
+   },
+   "shortcut_marker5": {
+      "message": "علامة 5"
+   },
+   "shortcut_marker6": {
+      "message": "علامة 6"
+   },
+   "shortcut_marker7": {
+      "message": "علامة 7"
+   },
+   "shortcut_marker8": {
+      "message": "علامة 8"
+   },
+   "shortcut_marker9": {
+      "message": "علامة 9"
+   },
+   "shortcut_nextMarker": {
+      "message": "العلامة التالية"
+   },
+   "shortcut_pitchDown": {
+      "message": "الحدة -"
+   },
+   "shortcut_pitchUp": {
+      "message": "الحدة +"
+   },
+   "shortcut_playPause": {
+      "message": "تشغيل/إيقاف مؤقت"
+   },
+   "shortcut_previousBoundary": {
+      "message": "العودة إلى بداية اللوب أو الأغنية"
+   },
+   "shortcut_reducerAmountDown": {
+      "message": "Vocal Reducer أقل"
+   },
+   "shortcut_reducerAmountUp": {
+      "message": "Vocal Reducer أكثر"
+   },
+   "shortcut_seekBackward": {
+      "message": "ترجيع"
+   },
+   "shortcut_seekForward": {
+      "message": "تقديم"
+   },
+   "shortcut_speedDown": {
+      "message": "السرعة -"
+   },
+   "shortcut_speedUp": {
+      "message": "السرعة +"
+   },
+   "shortcut_toggleAbLoop": {
+      "message": "A/B"
+   },
+   "shortcut_toggleEq": {
+      "message": "تشغيل/إيقاف المعادل"
+   },
+   "shortcut_toggleLoop": {
+      "message": "تبديل اللوب"
+   },
+   "shortcut_toggleVocalReducer": {
+      "message": "تشغيل/إيقاف Vocal Reducer"
+   },
+   "shortcut_transposeDown": {
+      "message": "الترانسبوز -"
+   },
+   "shortcut_transposeUp": {
+      "message": "الترانسبوز +"
+   },
+   "shortcut_volumeDown": {
+      "message": "خفض الصوت"
+   },
+   "shortcut_volumeUp": {
+      "message": "رفع الصوت"
+   }
+}

@@ -1,0 +1,116 @@
+{
+   "appDesc": {
+      "message": "YouTube, Spotify와 다양한 지원 사이트에서 음악의 키와 속도를 바꾸고 원하는 구간을 반복하며 연습하세요."
+   },
+   "appName": {
+      "message": "Transpose: 키 변경 ▸ 속도 조절 ▸ 구간 반복"
+   },
+   "appShortName": {
+      "message": "Transpose"
+   },
+   "extensionMenuOpenCompact": {
+      "message": "Compact 열기"
+   },
+   "extensionMenuOpenSide": {
+      "message": "Side에서 Studio 열기"
+   },
+   "extensionMenuSettings": {
+      "message": "설정"
+   },
+   "extensionMenuSupport": {
+      "message": "지원"
+   },
+   "shortcut_addMarker": {
+      "message": "마커 추가"
+   },
+   "shortcut_formantDown": {
+      "message": "포먼트 -"
+   },
+   "shortcut_formantUp": {
+      "message": "포먼트 +"
+   },
+   "shortcut_marker1": {
+      "message": "마커 1"
+   },
+   "shortcut_marker2": {
+      "message": "마커 2"
+   },
+   "shortcut_marker3": {
+      "message": "마커 3"
+   },
+   "shortcut_marker4": {
+      "message": "마커 4"
+   },
+   "shortcut_marker5": {
+      "message": "마커 5"
+   },
+   "shortcut_marker6": {
+      "message": "마커 6"
+   },
+   "shortcut_marker7": {
+      "message": "마커 7"
+   },
+   "shortcut_marker8": {
+      "message": "마커 8"
+   },
+   "shortcut_marker9": {
+      "message": "마커 9"
+   },
+   "shortcut_nextMarker": {
+      "message": "다음 마커"
+   },
+   "shortcut_pitchDown": {
+      "message": "피치 -"
+   },
+   "shortcut_pitchUp": {
+      "message": "피치 +"
+   },
+   "shortcut_playPause": {
+      "message": "재생/일시정지"
+   },
+   "shortcut_previousBoundary": {
+      "message": "루프 또는 곡의 시작으로 돌아가기"
+   },
+   "shortcut_reducerAmountDown": {
+      "message": "Vocal Reducer -"
+   },
+   "shortcut_reducerAmountUp": {
+      "message": "Vocal Reducer +"
+   },
+   "shortcut_seekBackward": {
+      "message": "되감기"
+   },
+   "shortcut_seekForward": {
+      "message": "빨리 감기"
+   },
+   "shortcut_speedDown": {
+      "message": "속도 -"
+   },
+   "shortcut_speedUp": {
+      "message": "속도 +"
+   },
+   "shortcut_toggleAbLoop": {
+      "message": "A/B"
+   },
+   "shortcut_toggleEq": {
+      "message": "이퀄라이저 켜기/끄기"
+   },
+   "shortcut_toggleLoop": {
+      "message": "루프 전환"
+   },
+   "shortcut_toggleVocalReducer": {
+      "message": "Vocal Reducer 켜기/끄기"
+   },
+   "shortcut_transposeDown": {
+      "message": "트랜스포즈 -"
+   },
+   "shortcut_transposeUp": {
+      "message": "트랜스포즈 +"
+   },
+   "shortcut_volumeDown": {
+      "message": "볼륨 -"
+   },
+   "shortcut_volumeUp": {
+      "message": "볼륨 +"
+   }
+}

@@ -1,0 +1,1 @@
+const e="transpose-tab-audio-document-v1:",t="transpose-tab-audio-document-ended-v1",a="transpose-tab-audio-capture-status-v1",n="transpose-tab-audio-capture-changed-v1";function o(e){return!!e&&"string"==typeof e.documentId&&!!e.documentId&&"string"==typeof e.sourceId&&!!e.sourceId&&Number.isSafeInteger(e.generation)&&e.generation>=0}export{n as T,a,e as b,t as c,o as v};

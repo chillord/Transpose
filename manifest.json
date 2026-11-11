@@ -1,0 +1,139 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "assets/icons/icon-128x128.png",
+         "16": "assets/icons/icon-16x16.png",
+         "32": "assets/icons/icon-32x32.png",
+         "48": "assets/icons/icon-48x48.png"
+      },
+      "default_title": "Transpose"
+   },
+   "background": {
+      "service_worker": "service-worker.js",
+      "type": "module"
+   },
+   "commands": {
+      "01-playPause": {
+         "description": "__MSG_shortcut_playPause__"
+      },
+      "02-previousBoundary": {
+         "description": "__MSG_shortcut_previousBoundary__"
+      },
+      "03-nextMarker": {
+         "description": "__MSG_shortcut_nextMarker__"
+      },
+      "04-seekBackward": {
+         "description": "__MSG_shortcut_seekBackward__"
+      },
+      "05-seekForward": {
+         "description": "__MSG_shortcut_seekForward__"
+      },
+      "10-speedDown": {
+         "description": "__MSG_shortcut_speedDown__"
+      },
+      "11-speedUp": {
+         "description": "__MSG_shortcut_speedUp__"
+      },
+      "20-transposeDown": {
+         "description": "__MSG_shortcut_transposeDown__"
+      },
+      "21-transposeUp": {
+         "description": "__MSG_shortcut_transposeUp__"
+      },
+      "22-pitchDown": {
+         "description": "__MSG_shortcut_pitchDown__"
+      },
+      "23-pitchUp": {
+         "description": "__MSG_shortcut_pitchUp__"
+      },
+      "24-formantDown": {
+         "description": "__MSG_shortcut_formantDown__"
+      },
+      "25-formantUp": {
+         "description": "__MSG_shortcut_formantUp__"
+      },
+      "30-volumeDown": {
+         "description": "__MSG_shortcut_volumeDown__"
+      },
+      "31-volumeUp": {
+         "description": "__MSG_shortcut_volumeUp__"
+      },
+      "32-reducerAmountDown": {
+         "description": "__MSG_shortcut_reducerAmountDown__"
+      },
+      "33-reducerAmountUp": {
+         "description": "__MSG_shortcut_reducerAmountUp__"
+      },
+      "34-toggleVocalReducer": {
+         "description": "__MSG_shortcut_toggleVocalReducer__"
+      },
+      "35-toggleEq": {
+         "description": "__MSG_shortcut_toggleEq__"
+      },
+      "40-toggleLoop": {
+         "description": "__MSG_shortcut_toggleLoop__"
+      },
+      "41-toggleAbLoop": {
+         "description": "__MSG_shortcut_toggleAbLoop__"
+      },
+      "50-addMarker": {
+         "description": "__MSG_shortcut_addMarker__"
+      },
+      "60-marker1": {
+         "description": "__MSG_shortcut_marker1__"
+      },
+      "61-marker2": {
+         "description": "__MSG_shortcut_marker2__"
+      },
+      "62-marker3": {
+         "description": "__MSG_shortcut_marker3__"
+      },
+      "63-marker4": {
+         "description": "__MSG_shortcut_marker4__"
+      },
+      "64-marker5": {
+         "description": "__MSG_shortcut_marker5__"
+      },
+      "65-marker6": {
+         "description": "__MSG_shortcut_marker6__"
+      },
+      "66-marker7": {
+         "description": "__MSG_shortcut_marker7__"
+      },
+      "67-marker8": {
+         "description": "__MSG_shortcut_marker8__"
+      },
+      "68-marker9": {
+         "description": "__MSG_shortcut_marker9__"
+      }
+   },
+   "content_security_policy": {
+      "extension_pages": "script-src 'self' 'wasm-unsafe-eval'; object-src 'self';"
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "externally_connectable": {
+      "matches": [ "https://transpose.video/*" ]
+   },
+   "icons": {
+      "128": "assets/icons/icon-128x128.png",
+      "16": "assets/icons/icon-16x16.png",
+      "32": "assets/icons/icon-32x32.png",
+      "48": "assets/icons/icon-48x48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAj3Tsk0fnbulG+vHFRvmfBiTZXXzgzXnq1RSq7Fq+MEvY+YVcblC4YgIscAFWLw3q6EhYaa88ccUSmP65SWPSQvh0IqCvvTw7aEoMBgYFlIvBrEXZamxRkLRPhqyKIw20L9g6u/gLDFG4zQMbzt2SBksTAg+RWvY7/1dO6JWSB3hA2YHSu04JqaTMDMTK+rWVYPFiLremg445L6Mm0dtZXXQkzWSTXLfhtxIvpxMvXHxx5zeouNs0lsdVpYwfdfcxdHD275sC0sMRswZwRfig0/jyCPFcqQBLDoLdJ8ul+SEeUHGTztDKRLy/hf8nXnW4xYbuf8/cb4AMA8131TfrpwIDAQAB",
+   "manifest_version": 3,
+   "message_serialization": "structured_clone",
+   "minimum_chrome_version": "127",
+   "name": "__MSG_appName__",
+   "optional_host_permissions": [ "*://*/*" ],
+   "optional_permissions": [ "tabCapture" ],
+   "permissions": [ "activeTab", "contextMenus", "offscreen", "scripting", "storage", "sidePanel" ],
+   "short_name": "__MSG_appShortName__",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "6.5.5",
+   "web_accessible_resources": [ {
+      "matches": [ "*://*/*" ],
+      "resources": [ "rb.wasm", "aw-tp-processor.js", "aw-st-processor.js", "aw-stem-capture-processor.js", "assets/i18n/**", "popup/**", "sidepanel/**", "assets/debug/audio-worklet-test.js" ]
+   } ]
+}

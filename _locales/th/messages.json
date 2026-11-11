@@ -1,0 +1,116 @@
+{
+   "appDesc": {
+      "message": "เปลี่ยนคีย์และความเร็ว วนซ้ำท่อนเพลง และฝึกดนตรีบน YouTube, Spotify และเว็บไซต์อื่นที่รองรับ"
+   },
+   "appName": {
+      "message": "Transpose: เปลี่ยนคีย์ ▸ ความเร็ว ▸ ลูป"
+   },
+   "appShortName": {
+      "message": "Transpose"
+   },
+   "extensionMenuOpenCompact": {
+      "message": "เปิด Compact"
+   },
+   "extensionMenuOpenSide": {
+      "message": "เปิด Side"
+   },
+   "extensionMenuSettings": {
+      "message": "การตั้งค่า"
+   },
+   "extensionMenuSupport": {
+      "message": "ช่วยเหลือ"
+   },
+   "shortcut_addMarker": {
+      "message": "เพิ่มมาร์กเกอร์"
+   },
+   "shortcut_formantDown": {
+      "message": "ฟอร์แมนท์ -"
+   },
+   "shortcut_formantUp": {
+      "message": "ฟอร์แมนท์ +"
+   },
+   "shortcut_marker1": {
+      "message": "มาร์กเกอร์ 1"
+   },
+   "shortcut_marker2": {
+      "message": "มาร์กเกอร์ 2"
+   },
+   "shortcut_marker3": {
+      "message": "มาร์กเกอร์ 3"
+   },
+   "shortcut_marker4": {
+      "message": "มาร์กเกอร์ 4"
+   },
+   "shortcut_marker5": {
+      "message": "มาร์กเกอร์ 5"
+   },
+   "shortcut_marker6": {
+      "message": "มาร์กเกอร์ 6"
+   },
+   "shortcut_marker7": {
+      "message": "มาร์กเกอร์ 7"
+   },
+   "shortcut_marker8": {
+      "message": "มาร์กเกอร์ 8"
+   },
+   "shortcut_marker9": {
+      "message": "มาร์กเกอร์ 9"
+   },
+   "shortcut_nextMarker": {
+      "message": "มาร์กเกอร์ถัดไป"
+   },
+   "shortcut_pitchDown": {
+      "message": "พิทช์ -"
+   },
+   "shortcut_pitchUp": {
+      "message": "พิทช์ +"
+   },
+   "shortcut_playPause": {
+      "message": "เล่น/หยุดชั่วคราว"
+   },
+   "shortcut_previousBoundary": {
+      "message": "กลับไปจุดเริ่มต้นของลูปหรือเพลง"
+   },
+   "shortcut_reducerAmountDown": {
+      "message": "ลด Vocal Reducer"
+   },
+   "shortcut_reducerAmountUp": {
+      "message": "เพิ่ม Vocal Reducer"
+   },
+   "shortcut_seekBackward": {
+      "message": "กรอย้อนกลับ"
+   },
+   "shortcut_seekForward": {
+      "message": "กรอไปข้างหน้า"
+   },
+   "shortcut_speedDown": {
+      "message": "ลดความเร็ว"
+   },
+   "shortcut_speedUp": {
+      "message": "เพิ่มความเร็ว"
+   },
+   "shortcut_toggleAbLoop": {
+      "message": "A/B"
+   },
+   "shortcut_toggleEq": {
+      "message": "เปิด/ปิดอีควอไลเซอร์"
+   },
+   "shortcut_toggleLoop": {
+      "message": "สลับลูป"
+   },
+   "shortcut_toggleVocalReducer": {
+      "message": "เปิด/ปิด Vocal Reducer"
+   },
+   "shortcut_transposeDown": {
+      "message": "ทรานสโพส -"
+   },
+   "shortcut_transposeUp": {
+      "message": "ทรานสโพส +"
+   },
+   "shortcut_volumeDown": {
+      "message": "ลดระดับเสียง"
+   },
+   "shortcut_volumeUp": {
+      "message": "เพิ่มระดับเสียง"
+   }
+}

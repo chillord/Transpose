@@ -1,0 +1,116 @@
+{
+   "appDesc": {
+      "message": "YouTube, Spotify ve desteklenen diğer sitelerde müziğin tonunu ve hızını değiştir, bölümleri döngüye al ve çalış."
+   },
+   "appName": {
+      "message": "Transpose: ton ▸ hız ▸ döngü"
+   },
+   "appShortName": {
+      "message": "Transpose"
+   },
+   "extensionMenuOpenCompact": {
+      "message": "Compact'ı aç"
+   },
+   "extensionMenuOpenSide": {
+      "message": "Side'ı aç"
+   },
+   "extensionMenuSettings": {
+      "message": "Ayarlar"
+   },
+   "extensionMenuSupport": {
+      "message": "Destek"
+   },
+   "shortcut_addMarker": {
+      "message": "İşaretçi ekle"
+   },
+   "shortcut_formantDown": {
+      "message": "Formant azalt"
+   },
+   "shortcut_formantUp": {
+      "message": "Formant artır"
+   },
+   "shortcut_marker1": {
+      "message": "İşaretçi 1"
+   },
+   "shortcut_marker2": {
+      "message": "İşaretçi 2"
+   },
+   "shortcut_marker3": {
+      "message": "İşaretçi 3"
+   },
+   "shortcut_marker4": {
+      "message": "İşaretçi 4"
+   },
+   "shortcut_marker5": {
+      "message": "İşaretçi 5"
+   },
+   "shortcut_marker6": {
+      "message": "İşaretçi 6"
+   },
+   "shortcut_marker7": {
+      "message": "İşaretçi 7"
+   },
+   "shortcut_marker8": {
+      "message": "İşaretçi 8"
+   },
+   "shortcut_marker9": {
+      "message": "İşaretçi 9"
+   },
+   "shortcut_nextMarker": {
+      "message": "Sonraki işaretçi"
+   },
+   "shortcut_pitchDown": {
+      "message": "Perdeyi düşür"
+   },
+   "shortcut_pitchUp": {
+      "message": "Perdeyi yükselt"
+   },
+   "shortcut_playPause": {
+      "message": "Oynat/Duraklat"
+   },
+   "shortcut_previousBoundary": {
+      "message": "Loop'un veya şarkının başına dön"
+   },
+   "shortcut_reducerAmountDown": {
+      "message": "Daha az Vocal Reducer"
+   },
+   "shortcut_reducerAmountUp": {
+      "message": "Daha fazla Vocal Reducer"
+   },
+   "shortcut_seekBackward": {
+      "message": "Geri sar"
+   },
+   "shortcut_seekForward": {
+      "message": "İleri sar"
+   },
+   "shortcut_speedDown": {
+      "message": "Hızı düşür"
+   },
+   "shortcut_speedUp": {
+      "message": "Hızı artır"
+   },
+   "shortcut_toggleAbLoop": {
+      "message": "A/B"
+   },
+   "shortcut_toggleEq": {
+      "message": "Equalizer Aç/Kapat"
+   },
+   "shortcut_toggleLoop": {
+      "message": "Loop Aç/Kapat"
+   },
+   "shortcut_toggleVocalReducer": {
+      "message": "Vocal Reducer Aç/Kapat"
+   },
+   "shortcut_transposeDown": {
+      "message": "Transpozeyi düşür"
+   },
+   "shortcut_transposeUp": {
+      "message": "Transpozeyi yükselt"
+   },
+   "shortcut_volumeDown": {
+      "message": "Sesi azalt"
+   },
+   "shortcut_volumeUp": {
+      "message": "Sesi artır"
+   }
+}

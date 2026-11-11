@@ -1,0 +1,116 @@
+{
+   "appDesc": {
+      "message": "Schimbă tonalitatea și viteza, repetă pasaje și exersează direct pe YouTube, Spotify și alte site-uri compatibile."
+   },
+   "appName": {
+      "message": "Transpose: pitch ▸ viteză ▸ loop-uri"
+   },
+   "appShortName": {
+      "message": "Transpose"
+   },
+   "extensionMenuOpenCompact": {
+      "message": "Deschide Compact"
+   },
+   "extensionMenuOpenSide": {
+      "message": "Deschide Side"
+   },
+   "extensionMenuSettings": {
+      "message": "Setări"
+   },
+   "extensionMenuSupport": {
+      "message": "Asistență"
+   },
+   "shortcut_addMarker": {
+      "message": "Adaugă Marker"
+   },
+   "shortcut_formantDown": {
+      "message": "Formant -"
+   },
+   "shortcut_formantUp": {
+      "message": "Formant +"
+   },
+   "shortcut_marker1": {
+      "message": "Marker 1"
+   },
+   "shortcut_marker2": {
+      "message": "Marker 2"
+   },
+   "shortcut_marker3": {
+      "message": "Marker 3"
+   },
+   "shortcut_marker4": {
+      "message": "Marker 4"
+   },
+   "shortcut_marker5": {
+      "message": "Marker 5"
+   },
+   "shortcut_marker6": {
+      "message": "Marker 6"
+   },
+   "shortcut_marker7": {
+      "message": "Marker 7"
+   },
+   "shortcut_marker8": {
+      "message": "Marker 8"
+   },
+   "shortcut_marker9": {
+      "message": "Marker 9"
+   },
+   "shortcut_nextMarker": {
+      "message": "Marcajul următor"
+   },
+   "shortcut_pitchDown": {
+      "message": "Pitch −"
+   },
+   "shortcut_pitchUp": {
+      "message": "Pitch +"
+   },
+   "shortcut_playPause": {
+      "message": "Redare/Pauză"
+   },
+   "shortcut_previousBoundary": {
+      "message": "Revino la începutul buclei sau al melodiei"
+   },
+   "shortcut_reducerAmountDown": {
+      "message": "Mai puțin reductor vocal"
+   },
+   "shortcut_reducerAmountUp": {
+      "message": "Mai mult reductor vocal"
+   },
+   "shortcut_seekBackward": {
+      "message": "Sari înapoi"
+   },
+   "shortcut_seekForward": {
+      "message": "Sari înainte"
+   },
+   "shortcut_speedDown": {
+      "message": "Scade viteza"
+   },
+   "shortcut_speedUp": {
+      "message": "Crește viteza"
+   },
+   "shortcut_toggleAbLoop": {
+      "message": "A/B"
+   },
+   "shortcut_toggleEq": {
+      "message": "Egalizator Pornit/Oprit"
+   },
+   "shortcut_toggleLoop": {
+      "message": "Comută Loop"
+   },
+   "shortcut_toggleVocalReducer": {
+      "message": "Reductor vocal Pornit/Oprit"
+   },
+   "shortcut_transposeDown": {
+      "message": "Transpose −"
+   },
+   "shortcut_transposeUp": {
+      "message": "Transpose +"
+   },
+   "shortcut_volumeDown": {
+      "message": "Scade volumul"
+   },
+   "shortcut_volumeUp": {
+      "message": "Crește volumul"
+   }
+}

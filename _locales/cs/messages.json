@@ -1,0 +1,116 @@
+{
+   "appDesc": {
+      "message": "Měňte výšku tónu a rychlost, opakujte pasáže a cvičte hudbu na YouTube, Spotify a dalších podporovaných webech."
+   },
+   "appName": {
+      "message": "Transpose: pitch ▸ speed ▸ loop"
+   },
+   "appShortName": {
+      "message": "Transpose"
+   },
+   "extensionMenuOpenCompact": {
+      "message": "Otevřít Compact"
+   },
+   "extensionMenuOpenSide": {
+      "message": "Otevřít Side"
+   },
+   "extensionMenuSettings": {
+      "message": "Nastavení"
+   },
+   "extensionMenuSupport": {
+      "message": "Podpora"
+   },
+   "shortcut_addMarker": {
+      "message": "Přidat značku"
+   },
+   "shortcut_formantDown": {
+      "message": "Formant -"
+   },
+   "shortcut_formantUp": {
+      "message": "Formant +"
+   },
+   "shortcut_marker1": {
+      "message": "Značka 1"
+   },
+   "shortcut_marker2": {
+      "message": "Značka 2"
+   },
+   "shortcut_marker3": {
+      "message": "Značka 3"
+   },
+   "shortcut_marker4": {
+      "message": "Značka 4"
+   },
+   "shortcut_marker5": {
+      "message": "Značka 5"
+   },
+   "shortcut_marker6": {
+      "message": "Značka 6"
+   },
+   "shortcut_marker7": {
+      "message": "Značka 7"
+   },
+   "shortcut_marker8": {
+      "message": "Značka 8"
+   },
+   "shortcut_marker9": {
+      "message": "Značka 9"
+   },
+   "shortcut_nextMarker": {
+      "message": "Další značka"
+   },
+   "shortcut_pitchDown": {
+      "message": "Výška −"
+   },
+   "shortcut_pitchUp": {
+      "message": "Výška +"
+   },
+   "shortcut_playPause": {
+      "message": "Přehrát/Pozastavit"
+   },
+   "shortcut_previousBoundary": {
+      "message": "Zpět na začátek smyčky nebo skladby"
+   },
+   "shortcut_reducerAmountDown": {
+      "message": "Méně Vocal Reducer"
+   },
+   "shortcut_reducerAmountUp": {
+      "message": "Více Vocal Reducer"
+   },
+   "shortcut_seekBackward": {
+      "message": "Přetočit vzad"
+   },
+   "shortcut_seekForward": {
+      "message": "Přetočit vpřed"
+   },
+   "shortcut_speedDown": {
+      "message": "Rychlost −"
+   },
+   "shortcut_speedUp": {
+      "message": "Rychlost +"
+   },
+   "shortcut_toggleAbLoop": {
+      "message": "A/B"
+   },
+   "shortcut_toggleEq": {
+      "message": "EQ zap/vyp"
+   },
+   "shortcut_toggleLoop": {
+      "message": "Přepnout Loop"
+   },
+   "shortcut_toggleVocalReducer": {
+      "message": "Vocal Reducer zap/vyp"
+   },
+   "shortcut_transposeDown": {
+      "message": "Transpozice −"
+   },
+   "shortcut_transposeUp": {
+      "message": "Transpozice +"
+   },
+   "shortcut_volumeDown": {
+      "message": "Hlasitost -"
+   },
+   "shortcut_volumeUp": {
+      "message": "Hlasitost +"
+   }
+}

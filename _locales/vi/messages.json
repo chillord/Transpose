@@ -1,0 +1,116 @@
+{
+   "appDesc": {
+      "message": "Đổi cao độ, tốc độ, lặp đoạn và luyện nhạc ngay trên YouTube, Spotify cùng các trang được hỗ trợ."
+   },
+   "appName": {
+      "message": "Transpose: đổi tông ▸ tốc độ ▸ lặp đoạn"
+   },
+   "appShortName": {
+      "message": "Transpose"
+   },
+   "extensionMenuOpenCompact": {
+      "message": "Mở Compact"
+   },
+   "extensionMenuOpenSide": {
+      "message": "Mở Side"
+   },
+   "extensionMenuSettings": {
+      "message": "Cài đặt"
+   },
+   "extensionMenuSupport": {
+      "message": "Hỗ trợ"
+   },
+   "shortcut_addMarker": {
+      "message": "Thêm điểm đánh dấu"
+   },
+   "shortcut_formantDown": {
+      "message": "Formant -"
+   },
+   "shortcut_formantUp": {
+      "message": "Formant +"
+   },
+   "shortcut_marker1": {
+      "message": "Điểm đánh dấu 1"
+   },
+   "shortcut_marker2": {
+      "message": "Điểm đánh dấu 2"
+   },
+   "shortcut_marker3": {
+      "message": "Điểm đánh dấu 3"
+   },
+   "shortcut_marker4": {
+      "message": "Điểm đánh dấu 4"
+   },
+   "shortcut_marker5": {
+      "message": "Điểm đánh dấu 5"
+   },
+   "shortcut_marker6": {
+      "message": "Điểm đánh dấu 6"
+   },
+   "shortcut_marker7": {
+      "message": "Điểm đánh dấu 7"
+   },
+   "shortcut_marker8": {
+      "message": "Điểm đánh dấu 8"
+   },
+   "shortcut_marker9": {
+      "message": "Điểm đánh dấu 9"
+   },
+   "shortcut_nextMarker": {
+      "message": "Điểm đánh dấu tiếp theo"
+   },
+   "shortcut_pitchDown": {
+      "message": "Cao độ -"
+   },
+   "shortcut_pitchUp": {
+      "message": "Cao độ +"
+   },
+   "shortcut_playPause": {
+      "message": "Phát/Tạm dừng"
+   },
+   "shortcut_previousBoundary": {
+      "message": "Về đầu vòng lặp hoặc bài hát"
+   },
+   "shortcut_reducerAmountDown": {
+      "message": "Giảm Vocal Reducer"
+   },
+   "shortcut_reducerAmountUp": {
+      "message": "Tăng Vocal Reducer"
+   },
+   "shortcut_seekBackward": {
+      "message": "Tua lùi"
+   },
+   "shortcut_seekForward": {
+      "message": "Tua tiếp"
+   },
+   "shortcut_speedDown": {
+      "message": "Tốc độ -"
+   },
+   "shortcut_speedUp": {
+      "message": "Tốc độ +"
+   },
+   "shortcut_toggleAbLoop": {
+      "message": "A/B"
+   },
+   "shortcut_toggleEq": {
+      "message": "Bật/tắt EQ"
+   },
+   "shortcut_toggleLoop": {
+      "message": "Bật/tắt vòng lặp"
+   },
+   "shortcut_toggleVocalReducer": {
+      "message": "Bật/tắt Vocal Reducer"
+   },
+   "shortcut_transposeDown": {
+      "message": "Chuyển tông -"
+   },
+   "shortcut_transposeUp": {
+      "message": "Chuyển tông +"
+   },
+   "shortcut_volumeDown": {
+      "message": "Âm lượng -"
+   },
+   "shortcut_volumeUp": {
+      "message": "Âm lượng +"
+   }
+}

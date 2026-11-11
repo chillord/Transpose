@@ -1,0 +1,116 @@
+{
+   "appDesc": {
+      "message": "পিচ ও গতি বদলাও, অংশ লুপ করো আর YouTube, Spotify ও অন্য সমর্থিত সাইটে গান অনুশীলন করো।"
+   },
+   "appName": {
+      "message": "Transpose: pitch ▸ speed ▸ loop"
+   },
+   "appShortName": {
+      "message": "Transpose"
+   },
+   "extensionMenuOpenCompact": {
+      "message": "Compact খোলো"
+   },
+   "extensionMenuOpenSide": {
+      "message": "Side খোলো"
+   },
+   "extensionMenuSettings": {
+      "message": "সেটিংস"
+   },
+   "extensionMenuSupport": {
+      "message": "সহায়তা"
+   },
+   "shortcut_addMarker": {
+      "message": "মার্কার যোগ করো"
+   },
+   "shortcut_formantDown": {
+      "message": "ফরম্যান্ট কমাও"
+   },
+   "shortcut_formantUp": {
+      "message": "ফরম্যান্ট বাড়াও"
+   },
+   "shortcut_marker1": {
+      "message": "মার্কার ১"
+   },
+   "shortcut_marker2": {
+      "message": "মার্কার ২"
+   },
+   "shortcut_marker3": {
+      "message": "মার্কার ৩"
+   },
+   "shortcut_marker4": {
+      "message": "মার্কার ৪"
+   },
+   "shortcut_marker5": {
+      "message": "মার্কার ৫"
+   },
+   "shortcut_marker6": {
+      "message": "মার্কার ৬"
+   },
+   "shortcut_marker7": {
+      "message": "মার্কার ৭"
+   },
+   "shortcut_marker8": {
+      "message": "মার্কার ৮"
+   },
+   "shortcut_marker9": {
+      "message": "মার্কার ৯"
+   },
+   "shortcut_nextMarker": {
+      "message": "পরের মার্কার"
+   },
+   "shortcut_pitchDown": {
+      "message": "পিচ কমাও"
+   },
+   "shortcut_pitchUp": {
+      "message": "পিচ বাড়াও"
+   },
+   "shortcut_playPause": {
+      "message": "চালাও/থামাও"
+   },
+   "shortcut_previousBoundary": {
+      "message": "লুপ বা গানের শুরুতে ফিরে যাও"
+   },
+   "shortcut_reducerAmountDown": {
+      "message": "Vocal Reducer কমাও"
+   },
+   "shortcut_reducerAmountUp": {
+      "message": "Vocal Reducer বাড়াও"
+   },
+   "shortcut_seekBackward": {
+      "message": "পেছনে যাও"
+   },
+   "shortcut_seekForward": {
+      "message": "সামনে যাও"
+   },
+   "shortcut_speedDown": {
+      "message": "গতি কমাও"
+   },
+   "shortcut_speedUp": {
+      "message": "গতি বাড়াও"
+   },
+   "shortcut_toggleAbLoop": {
+      "message": "A/B"
+   },
+   "shortcut_toggleEq": {
+      "message": "ইকুয়ালাইজার চালু/বন্ধ"
+   },
+   "shortcut_toggleLoop": {
+      "message": "লুপ টগল"
+   },
+   "shortcut_toggleVocalReducer": {
+      "message": "Vocal Reducer চালু/বন্ধ"
+   },
+   "shortcut_transposeDown": {
+      "message": "ট্রান্সপোজ কমাও"
+   },
+   "shortcut_transposeUp": {
+      "message": "ট্রান্সপোজ বাড়াও"
+   },
+   "shortcut_volumeDown": {
+      "message": "ভলিউম কমাও"
+   },
+   "shortcut_volumeUp": {
+      "message": "ভলিউম বাড়াও"
+   }
+}

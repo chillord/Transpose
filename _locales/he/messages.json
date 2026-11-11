@@ -1,0 +1,116 @@
+{
+   "appDesc": {
+      "message": "שנו גובה צליל ומהירות, חזרו על קטעים ותרגלו מוזיקה ישירות ב-YouTube, ב-Spotify ובאתרים נתמכים נוספים."
+   },
+   "appName": {
+      "message": "Transpose: גובה צליל ▸ מהירות ▸ לופים"
+   },
+   "appShortName": {
+      "message": "Transpose"
+   },
+   "extensionMenuOpenCompact": {
+      "message": "פתח Compact"
+   },
+   "extensionMenuOpenSide": {
+      "message": "פתח Side"
+   },
+   "extensionMenuSettings": {
+      "message": "הגדרות"
+   },
+   "extensionMenuSupport": {
+      "message": "תמיכה"
+   },
+   "shortcut_addMarker": {
+      "message": "הוסף סימון"
+   },
+   "shortcut_formantDown": {
+      "message": "הורד פורמנט"
+   },
+   "shortcut_formantUp": {
+      "message": "העלה פורמנט"
+   },
+   "shortcut_marker1": {
+      "message": "סמן 1"
+   },
+   "shortcut_marker2": {
+      "message": "סמן 2"
+   },
+   "shortcut_marker3": {
+      "message": "סמן 3"
+   },
+   "shortcut_marker4": {
+      "message": "סמן 4"
+   },
+   "shortcut_marker5": {
+      "message": "סמן 5"
+   },
+   "shortcut_marker6": {
+      "message": "סמן 6"
+   },
+   "shortcut_marker7": {
+      "message": "סמן 7"
+   },
+   "shortcut_marker8": {
+      "message": "סמן 8"
+   },
+   "shortcut_marker9": {
+      "message": "סמן 9"
+   },
+   "shortcut_nextMarker": {
+      "message": "הסימון הבא"
+   },
+   "shortcut_pitchDown": {
+      "message": "הורד פיץ'"
+   },
+   "shortcut_pitchUp": {
+      "message": "העלה פיץ'"
+   },
+   "shortcut_playPause": {
+      "message": "נגן/השהה"
+   },
+   "shortcut_previousBoundary": {
+      "message": "חזרה לתחילת הלופ או השיר"
+   },
+   "shortcut_reducerAmountDown": {
+      "message": "פחות Vocal Reducer"
+   },
+   "shortcut_reducerAmountUp": {
+      "message": "יותר Vocal Reducer"
+   },
+   "shortcut_seekBackward": {
+      "message": "דלג אחורה"
+   },
+   "shortcut_seekForward": {
+      "message": "דלג קדימה"
+   },
+   "shortcut_speedDown": {
+      "message": "האט מהירות"
+   },
+   "shortcut_speedUp": {
+      "message": "האץ מהירות"
+   },
+   "shortcut_toggleAbLoop": {
+      "message": "A/B"
+   },
+   "shortcut_toggleEq": {
+      "message": "אקולייזר הפעלה/כיבוי"
+   },
+   "shortcut_toggleLoop": {
+      "message": "הפעל או כבה לופ"
+   },
+   "shortcut_toggleVocalReducer": {
+      "message": "הפעל או כבה Vocal Reducer"
+   },
+   "shortcut_transposeDown": {
+      "message": "הורד טרנספוז"
+   },
+   "shortcut_transposeUp": {
+      "message": "העלה טרנספוז"
+   },
+   "shortcut_volumeDown": {
+      "message": "הנמך עוצמה"
+   },
+   "shortcut_volumeUp": {
+      "message": "הגבר עוצמה"
+   }
+}

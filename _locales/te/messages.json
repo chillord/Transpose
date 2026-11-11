@@ -1,0 +1,116 @@
+{
+   "appDesc": {
+      "message": "YouTube, Spotify, ఇతర మద్దతున్న సైట్లలో శ్రుతి, వేగం మార్చి, భాగాలను మళ్లీ వింటూ సంగీత సాధన చేయి."
+   },
+   "appName": {
+      "message": "Transpose: శ్రుతి ▸ వేగం ▸ లూప్‌లు"
+   },
+   "appShortName": {
+      "message": "Transpose"
+   },
+   "extensionMenuOpenCompact": {
+      "message": "Compact తెరువు"
+   },
+   "extensionMenuOpenSide": {
+      "message": "Side తెరువు"
+   },
+   "extensionMenuSettings": {
+      "message": "సెట్టింగ్స్"
+   },
+   "extensionMenuSupport": {
+      "message": "సహాయం"
+   },
+   "shortcut_addMarker": {
+      "message": "మార్కర్ జోడించు"
+   },
+   "shortcut_formantDown": {
+      "message": "Formant తగ్గించు"
+   },
+   "shortcut_formantUp": {
+      "message": "Formant పెంచు"
+   },
+   "shortcut_marker1": {
+      "message": "మార్కర్ 1"
+   },
+   "shortcut_marker2": {
+      "message": "మార్కర్ 2"
+   },
+   "shortcut_marker3": {
+      "message": "మార్కర్ 3"
+   },
+   "shortcut_marker4": {
+      "message": "మార్కర్ 4"
+   },
+   "shortcut_marker5": {
+      "message": "మార్కర్ 5"
+   },
+   "shortcut_marker6": {
+      "message": "మార్కర్ 6"
+   },
+   "shortcut_marker7": {
+      "message": "మార్కర్ 7"
+   },
+   "shortcut_marker8": {
+      "message": "మార్కర్ 8"
+   },
+   "shortcut_marker9": {
+      "message": "మార్కర్ 9"
+   },
+   "shortcut_nextMarker": {
+      "message": "తదుపరి మార్కర్"
+   },
+   "shortcut_pitchDown": {
+      "message": "పిచ్ తగ్గించు"
+   },
+   "shortcut_pitchUp": {
+      "message": "పిచ్ పెంచు"
+   },
+   "shortcut_playPause": {
+      "message": "ప్లే/పాజ్"
+   },
+   "shortcut_previousBoundary": {
+      "message": "లూప్ లేదా పాట ప్రారంభానికి తిరిగి వెళ్ళు"
+   },
+   "shortcut_reducerAmountDown": {
+      "message": "Vocal Reducer తక్కువ"
+   },
+   "shortcut_reducerAmountUp": {
+      "message": "Vocal Reducer ఎక్కువ"
+   },
+   "shortcut_seekBackward": {
+      "message": "వెనక్కి వెళ్ళు"
+   },
+   "shortcut_seekForward": {
+      "message": "ముందుకు వెళ్ళు"
+   },
+   "shortcut_speedDown": {
+      "message": "స్పీడ్ తగ్గించు"
+   },
+   "shortcut_speedUp": {
+      "message": "స్పీడ్ పెంచు"
+   },
+   "shortcut_toggleAbLoop": {
+      "message": "A/B"
+   },
+   "shortcut_toggleEq": {
+      "message": "Equalizer ఆన్/ఆఫ్"
+   },
+   "shortcut_toggleLoop": {
+      "message": "లూప్ ఆన్/ఆఫ్"
+   },
+   "shortcut_toggleVocalReducer": {
+      "message": "Vocal Reducer ఆన్/ఆఫ్"
+   },
+   "shortcut_transposeDown": {
+      "message": "ట్రాన్స్‌పోజ్ తగ్గించు"
+   },
+   "shortcut_transposeUp": {
+      "message": "ట్రాన్స్‌పోజ్ పెంచు"
+   },
+   "shortcut_volumeDown": {
+      "message": "వాల్యూం తగ్గించు"
+   },
+   "shortcut_volumeUp": {
+      "message": "వాల్యూం పెంచు"
+   }
+}

@@ -1,0 +1,116 @@
+{
+   "appDesc": {
+      "message": "Muuda helikõrgust ja kiirust, korda lõike ning harjuta muusikat YouTube’is, Spotifys ja teistel toetatud saitidel."
+   },
+   "appName": {
+      "message": "Transpose: pitch ▸ speed ▸ loop"
+   },
+   "appShortName": {
+      "message": "Transpose"
+   },
+   "extensionMenuOpenCompact": {
+      "message": "Ava Compact"
+   },
+   "extensionMenuOpenSide": {
+      "message": "Ava Side"
+   },
+   "extensionMenuSettings": {
+      "message": "Seaded"
+   },
+   "extensionMenuSupport": {
+      "message": "Tugi"
+   },
+   "shortcut_addMarker": {
+      "message": "Lisa Marker"
+   },
+   "shortcut_formantDown": {
+      "message": "Formant alla"
+   },
+   "shortcut_formantUp": {
+      "message": "Formant üles"
+   },
+   "shortcut_marker1": {
+      "message": "Marker 1"
+   },
+   "shortcut_marker2": {
+      "message": "Marker 2"
+   },
+   "shortcut_marker3": {
+      "message": "Marker 3"
+   },
+   "shortcut_marker4": {
+      "message": "Marker 4"
+   },
+   "shortcut_marker5": {
+      "message": "Marker 5"
+   },
+   "shortcut_marker6": {
+      "message": "Marker 6"
+   },
+   "shortcut_marker7": {
+      "message": "Marker 7"
+   },
+   "shortcut_marker8": {
+      "message": "Marker 8"
+   },
+   "shortcut_marker9": {
+      "message": "Marker 9"
+   },
+   "shortcut_nextMarker": {
+      "message": "Järgmine marker"
+   },
+   "shortcut_pitchDown": {
+      "message": "Langeta häälestust"
+   },
+   "shortcut_pitchUp": {
+      "message": "Tõsta häälestust"
+   },
+   "shortcut_playPause": {
+      "message": "Esita/Peata"
+   },
+   "shortcut_previousBoundary": {
+      "message": "Tagasi korduse või loo algusesse"
+   },
+   "shortcut_reducerAmountDown": {
+      "message": "Vocal Reducer vähem"
+   },
+   "shortcut_reducerAmountUp": {
+      "message": "Vocal Reducer rohkem"
+   },
+   "shortcut_seekBackward": {
+      "message": "Keri tagasi"
+   },
+   "shortcut_seekForward": {
+      "message": "Keri edasi"
+   },
+   "shortcut_speedDown": {
+      "message": "Vähenda kiirust"
+   },
+   "shortcut_speedUp": {
+      "message": "Suurenda kiirust"
+   },
+   "shortcut_toggleAbLoop": {
+      "message": "A/B"
+   },
+   "shortcut_toggleEq": {
+      "message": "Ekvalaiser sees/väljas"
+   },
+   "shortcut_toggleLoop": {
+      "message": "Loop sees/väljas"
+   },
+   "shortcut_toggleVocalReducer": {
+      "message": "Vocal Reducer sees/väljas"
+   },
+   "shortcut_transposeDown": {
+      "message": "Langeta transponeerimist"
+   },
+   "shortcut_transposeUp": {
+      "message": "Tõsta transponeerimist"
+   },
+   "shortcut_volumeDown": {
+      "message": "Helitugevus alla"
+   },
+   "shortcut_volumeUp": {
+      "message": "Helitugevus üles"
+   }
+}

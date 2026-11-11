@@ -1,0 +1,116 @@
+{
+   "appDesc": {
+      "message": "Tonhöhe und Tempo ändern, Passagen wiederholen und Musik üben. Direkt auf YouTube, Spotify und weiteren unterstützten Seiten."
+   },
+   "appName": {
+      "message": "Transpose: pitch ▸ speed ▸ loop"
+   },
+   "appShortName": {
+      "message": "Transpose"
+   },
+   "extensionMenuOpenCompact": {
+      "message": "Compact öffnen"
+   },
+   "extensionMenuOpenSide": {
+      "message": "Side öffnen"
+   },
+   "extensionMenuSettings": {
+      "message": "Einstellungen"
+   },
+   "extensionMenuSupport": {
+      "message": "Support"
+   },
+   "shortcut_addMarker": {
+      "message": "Marker hinzufügen"
+   },
+   "shortcut_formantDown": {
+      "message": "Formant verringern"
+   },
+   "shortcut_formantUp": {
+      "message": "Formant erhöhen"
+   },
+   "shortcut_marker1": {
+      "message": "Marker 1"
+   },
+   "shortcut_marker2": {
+      "message": "Marker 2"
+   },
+   "shortcut_marker3": {
+      "message": "Marker 3"
+   },
+   "shortcut_marker4": {
+      "message": "Marker 4"
+   },
+   "shortcut_marker5": {
+      "message": "Marker 5"
+   },
+   "shortcut_marker6": {
+      "message": "Marker 6"
+   },
+   "shortcut_marker7": {
+      "message": "Marker 7"
+   },
+   "shortcut_marker8": {
+      "message": "Marker 8"
+   },
+   "shortcut_marker9": {
+      "message": "Marker 9"
+   },
+   "shortcut_nextMarker": {
+      "message": "Nächster Marker"
+   },
+   "shortcut_pitchDown": {
+      "message": "Tonhöhe verringern"
+   },
+   "shortcut_pitchUp": {
+      "message": "Tonhöhe erhöhen"
+   },
+   "shortcut_playPause": {
+      "message": "Wiedergabe/Pause"
+   },
+   "shortcut_previousBoundary": {
+      "message": "Zurück zum Loop- oder Songanfang"
+   },
+   "shortcut_reducerAmountDown": {
+      "message": "Weniger Vocal Reducer"
+   },
+   "shortcut_reducerAmountUp": {
+      "message": "Mehr Vocal Reducer"
+   },
+   "shortcut_seekBackward": {
+      "message": "Rückwärts springen"
+   },
+   "shortcut_seekForward": {
+      "message": "Vorwärts springen"
+   },
+   "shortcut_speedDown": {
+      "message": "Geschwindigkeit verringern"
+   },
+   "shortcut_speedUp": {
+      "message": "Geschwindigkeit erhöhen"
+   },
+   "shortcut_toggleAbLoop": {
+      "message": "A/B"
+   },
+   "shortcut_toggleEq": {
+      "message": "Equalizer An/Aus"
+   },
+   "shortcut_toggleLoop": {
+      "message": "Loop umschalten"
+   },
+   "shortcut_toggleVocalReducer": {
+      "message": "Vocal Reducer An/Aus"
+   },
+   "shortcut_transposeDown": {
+      "message": "Transponierung verringern"
+   },
+   "shortcut_transposeUp": {
+      "message": "Transponierung erhöhen"
+   },
+   "shortcut_volumeDown": {
+      "message": "Lautstärke verringern"
+   },
+   "shortcut_volumeUp": {
+      "message": "Lautstärke erhöhen"
+   }
+}

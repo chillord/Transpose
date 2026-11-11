@@ -1,0 +1,116 @@
+{
+   "appDesc": {
+      "message": "Badili pitch na kasi, rudia sehemu na ufanye mazoezi ya muziki kwenye YouTube, Spotify na tovuti nyingine zinazotumika."
+   },
+   "appName": {
+      "message": "Transpose: pitch ▸ kasi ▸ loop"
+   },
+   "appShortName": {
+      "message": "Transpose"
+   },
+   "extensionMenuOpenCompact": {
+      "message": "Fungua Compact"
+   },
+   "extensionMenuOpenSide": {
+      "message": "Fungua Side"
+   },
+   "extensionMenuSettings": {
+      "message": "Mipangilio"
+   },
+   "extensionMenuSupport": {
+      "message": "Msaada"
+   },
+   "shortcut_addMarker": {
+      "message": "Ongeza alama"
+   },
+   "shortcut_formantDown": {
+      "message": "Punguza Formant"
+   },
+   "shortcut_formantUp": {
+      "message": "Ongeza Formant"
+   },
+   "shortcut_marker1": {
+      "message": "Marker 1"
+   },
+   "shortcut_marker2": {
+      "message": "Marker 2"
+   },
+   "shortcut_marker3": {
+      "message": "Marker 3"
+   },
+   "shortcut_marker4": {
+      "message": "Marker 4"
+   },
+   "shortcut_marker5": {
+      "message": "Marker 5"
+   },
+   "shortcut_marker6": {
+      "message": "Marker 6"
+   },
+   "shortcut_marker7": {
+      "message": "Marker 7"
+   },
+   "shortcut_marker8": {
+      "message": "Marker 8"
+   },
+   "shortcut_marker9": {
+      "message": "Marker 9"
+   },
+   "shortcut_nextMarker": {
+      "message": "Alama inayofuata"
+   },
+   "shortcut_pitchDown": {
+      "message": "Shusha Pitch"
+   },
+   "shortcut_pitchUp": {
+      "message": "Pandisha Pitch"
+   },
+   "shortcut_playPause": {
+      "message": "Cheza/Sitisha"
+   },
+   "shortcut_previousBoundary": {
+      "message": "Rudi mwanzo wa loop au wimbo"
+   },
+   "shortcut_reducerAmountDown": {
+      "message": "Vocal Reducer chini"
+   },
+   "shortcut_reducerAmountUp": {
+      "message": "Vocal Reducer juu"
+   },
+   "shortcut_seekBackward": {
+      "message": "Ruka nyuma"
+   },
+   "shortcut_seekForward": {
+      "message": "Ruka mbele"
+   },
+   "shortcut_speedDown": {
+      "message": "Punguza kasi"
+   },
+   "shortcut_speedUp": {
+      "message": "Ongeza kasi"
+   },
+   "shortcut_toggleAbLoop": {
+      "message": "A/B"
+   },
+   "shortcut_toggleEq": {
+      "message": "Washa/Zima Equalizer"
+   },
+   "shortcut_toggleLoop": {
+      "message": "Washa/Zima Loop"
+   },
+   "shortcut_toggleVocalReducer": {
+      "message": "Washa/Zima Vocal Reducer"
+   },
+   "shortcut_transposeDown": {
+      "message": "Shusha Transpose"
+   },
+   "shortcut_transposeUp": {
+      "message": "Pandisha Transpose"
+   },
+   "shortcut_volumeDown": {
+      "message": "Punguza sauti"
+   },
+   "shortcut_volumeUp": {
+      "message": "Ongeza sauti"
+   }
+}

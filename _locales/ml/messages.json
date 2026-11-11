@@ -1,0 +1,116 @@
+{
+   "appDesc": {
+      "message": "YouTube, Spotify, മറ്റ് പിന്തുണയുള്ള സൈറ്റുകൾ എന്നിവയിൽ ശ്രുതിയും വേഗവും മാറ്റി, ഭാഗങ്ങൾ ആവർത്തിച്ച് സംഗീതം പരിശീലിക്കൂ."
+   },
+   "appName": {
+      "message": "Transpose: ശ്രുതി ▸ വേഗം ▸ ലൂപ്പ്"
+   },
+   "appShortName": {
+      "message": "Transpose"
+   },
+   "extensionMenuOpenCompact": {
+      "message": "Compact തുറക്കൂ"
+   },
+   "extensionMenuOpenSide": {
+      "message": "Side-ൽ Studio തുറക്കൂ"
+   },
+   "extensionMenuSettings": {
+      "message": "സെറ്റിങ്ങ്സ്"
+   },
+   "extensionMenuSupport": {
+      "message": "സഹായം"
+   },
+   "shortcut_addMarker": {
+      "message": "മാർക്കർ ചേർക്കൂ"
+   },
+   "shortcut_formantDown": {
+      "message": "ഫോർമന്റ് കുറയ്ക്കൂ"
+   },
+   "shortcut_formantUp": {
+      "message": "ഫോർമന്റ് കൂട്ടൂ"
+   },
+   "shortcut_marker1": {
+      "message": "മാർക്കർ 1"
+   },
+   "shortcut_marker2": {
+      "message": "മാർക്കർ 2"
+   },
+   "shortcut_marker3": {
+      "message": "മാർക്കർ 3"
+   },
+   "shortcut_marker4": {
+      "message": "മാർക്കർ 4"
+   },
+   "shortcut_marker5": {
+      "message": "മാർക്കർ 5"
+   },
+   "shortcut_marker6": {
+      "message": "മാർക്കർ 6"
+   },
+   "shortcut_marker7": {
+      "message": "മാർക്കർ 7"
+   },
+   "shortcut_marker8": {
+      "message": "മാർക്കർ 8"
+   },
+   "shortcut_marker9": {
+      "message": "മാർക്കർ 9"
+   },
+   "shortcut_nextMarker": {
+      "message": "അടുത്ത മാർക്കർ"
+   },
+   "shortcut_pitchDown": {
+      "message": "പിച്ച് കുറയ്ക്കൂ"
+   },
+   "shortcut_pitchUp": {
+      "message": "പിച്ച് കൂട്ടൂ"
+   },
+   "shortcut_playPause": {
+      "message": "പ്ലേ/പോസ്"
+   },
+   "shortcut_previousBoundary": {
+      "message": "ലൂപ്പിന്റെയോ പാട്ടിന്റെയോ തുടക്കത്തിലേക്ക് മടങ്ങുക"
+   },
+   "shortcut_reducerAmountDown": {
+      "message": "Vocal Reducer കുറവ്"
+   },
+   "shortcut_reducerAmountUp": {
+      "message": "Vocal Reducer കൂടുതൽ"
+   },
+   "shortcut_seekBackward": {
+      "message": "പിന്നോട്ട് പോകൂ"
+   },
+   "shortcut_seekForward": {
+      "message": "മുന്നോട്ട് പോകൂ"
+   },
+   "shortcut_speedDown": {
+      "message": "സ്പീഡ് കുറയ്ക്കൂ"
+   },
+   "shortcut_speedUp": {
+      "message": "സ്പീഡ് കൂട്ടൂ"
+   },
+   "shortcut_toggleAbLoop": {
+      "message": "A/B"
+   },
+   "shortcut_toggleEq": {
+      "message": "ഇക്വലൈസർ ഓൺ/ഓഫ്"
+   },
+   "shortcut_toggleLoop": {
+      "message": "ലൂപ്പ് ടോഗിൾ"
+   },
+   "shortcut_toggleVocalReducer": {
+      "message": "Vocal Reducer ഓൺ/ഓഫ്"
+   },
+   "shortcut_transposeDown": {
+      "message": "ട്രാൻസ്‌പോസ് കുറയ്ക്കൂ"
+   },
+   "shortcut_transposeUp": {
+      "message": "ട്രാൻസ്‌പോസ് കൂട്ടൂ"
+   },
+   "shortcut_volumeDown": {
+      "message": "വോള്യം കുറയ്ക്കൂ"
+   },
+   "shortcut_volumeUp": {
+      "message": "വോള്യം കൂട്ടൂ"
+   }
+}

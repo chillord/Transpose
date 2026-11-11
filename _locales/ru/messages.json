@@ -1,0 +1,116 @@
+{
+   "appDesc": {
+      "message": "Меняйте тональность и скорость, повторяйте фрагменты и занимайтесь музыкой на YouTube, Spotify и других поддерживаемых сайтах."
+   },
+   "appName": {
+      "message": "Transpose: тональность ▸ скорость ▸ лупы"
+   },
+   "appShortName": {
+      "message": "Transpose"
+   },
+   "extensionMenuOpenCompact": {
+      "message": "Открыть Compact"
+   },
+   "extensionMenuOpenSide": {
+      "message": "Открыть Side"
+   },
+   "extensionMenuSettings": {
+      "message": "Настройки"
+   },
+   "extensionMenuSupport": {
+      "message": "Поддержка"
+   },
+   "shortcut_addMarker": {
+      "message": "Добавить маркер"
+   },
+   "shortcut_formantDown": {
+      "message": "Формант -"
+   },
+   "shortcut_formantUp": {
+      "message": "Формант +"
+   },
+   "shortcut_marker1": {
+      "message": "маркер 1"
+   },
+   "shortcut_marker2": {
+      "message": "маркер 2"
+   },
+   "shortcut_marker3": {
+      "message": "маркер 3"
+   },
+   "shortcut_marker4": {
+      "message": "маркер 4"
+   },
+   "shortcut_marker5": {
+      "message": "маркер 5"
+   },
+   "shortcut_marker6": {
+      "message": "маркер 6"
+   },
+   "shortcut_marker7": {
+      "message": "маркер 7"
+   },
+   "shortcut_marker8": {
+      "message": "маркер 8"
+   },
+   "shortcut_marker9": {
+      "message": "маркер 9"
+   },
+   "shortcut_nextMarker": {
+      "message": "Следующий маркер"
+   },
+   "shortcut_pitchDown": {
+      "message": "Высота -"
+   },
+   "shortcut_pitchUp": {
+      "message": "Высота +"
+   },
+   "shortcut_playPause": {
+      "message": "Воспроизвести/Пауза"
+   },
+   "shortcut_previousBoundary": {
+      "message": "Вернуться к началу цикла или песни"
+   },
+   "shortcut_reducerAmountDown": {
+      "message": "Меньше вокального редуктора"
+   },
+   "shortcut_reducerAmountUp": {
+      "message": "Больше вокального редуктора"
+   },
+   "shortcut_seekBackward": {
+      "message": "Перемотка назад"
+   },
+   "shortcut_seekForward": {
+      "message": "Перемотка вперёд"
+   },
+   "shortcut_speedDown": {
+      "message": "Уменьшить скорость"
+   },
+   "shortcut_speedUp": {
+      "message": "Увеличить скорость"
+   },
+   "shortcut_toggleAbLoop": {
+      "message": "A/B"
+   },
+   "shortcut_toggleEq": {
+      "message": "EQ вкл./выкл."
+   },
+   "shortcut_toggleLoop": {
+      "message": "Переключить луп"
+   },
+   "shortcut_toggleVocalReducer": {
+      "message": "Вокальный редуктор вкл./выкл."
+   },
+   "shortcut_transposeDown": {
+      "message": "Транспонирование -"
+   },
+   "shortcut_transposeUp": {
+      "message": "Транспонирование +"
+   },
+   "shortcut_volumeDown": {
+      "message": "Громкость -"
+   },
+   "shortcut_volumeUp": {
+      "message": "Громкость +"
+   }
+}

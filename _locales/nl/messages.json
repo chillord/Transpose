@@ -1,0 +1,116 @@
+{
+   "appDesc": {
+      "message": "Verander de toonhoogte en snelheid van muziek en herhaal passages direct op YouTube, Spotify en vele andere streamingplatforms."
+   },
+   "appName": {
+      "message": "Transpose: pitch ▸ speed ▸ loop"
+   },
+   "appShortName": {
+      "message": "Transpose"
+   },
+   "extensionMenuOpenCompact": {
+      "message": "Compact openen"
+   },
+   "extensionMenuOpenSide": {
+      "message": "Side openen"
+   },
+   "extensionMenuSettings": {
+      "message": "Instellingen"
+   },
+   "extensionMenuSupport": {
+      "message": "Support"
+   },
+   "shortcut_addMarker": {
+      "message": "Markering toevoegen"
+   },
+   "shortcut_formantDown": {
+      "message": "Formant omlaag"
+   },
+   "shortcut_formantUp": {
+      "message": "Formant omhoog"
+   },
+   "shortcut_marker1": {
+      "message": "Markering 1"
+   },
+   "shortcut_marker2": {
+      "message": "Markering 2"
+   },
+   "shortcut_marker3": {
+      "message": "Markering 3"
+   },
+   "shortcut_marker4": {
+      "message": "Markering 4"
+   },
+   "shortcut_marker5": {
+      "message": "Markering 5"
+   },
+   "shortcut_marker6": {
+      "message": "Markering 6"
+   },
+   "shortcut_marker7": {
+      "message": "Markering 7"
+   },
+   "shortcut_marker8": {
+      "message": "Markering 8"
+   },
+   "shortcut_marker9": {
+      "message": "Markering 9"
+   },
+   "shortcut_nextMarker": {
+      "message": "Volgende marker"
+   },
+   "shortcut_pitchDown": {
+      "message": "Fijnstemmen omlaag"
+   },
+   "shortcut_pitchUp": {
+      "message": "Fijnstemmen omhoog"
+   },
+   "shortcut_playPause": {
+      "message": "Afspelen/Pauzeren"
+   },
+   "shortcut_previousBoundary": {
+      "message": "Terug naar loop- of songbegin"
+   },
+   "shortcut_reducerAmountDown": {
+      "message": "Vocal Reducer minder"
+   },
+   "shortcut_reducerAmountUp": {
+      "message": "Vocal Reducer meer"
+   },
+   "shortcut_seekBackward": {
+      "message": "Terugspoelen"
+   },
+   "shortcut_seekForward": {
+      "message": "Vooruitspoelen"
+   },
+   "shortcut_speedDown": {
+      "message": "Snelheid omlaag"
+   },
+   "shortcut_speedUp": {
+      "message": "Snelheid omhoog"
+   },
+   "shortcut_toggleAbLoop": {
+      "message": "A/B"
+   },
+   "shortcut_toggleEq": {
+      "message": "Equalizer aan/uit"
+   },
+   "shortcut_toggleLoop": {
+      "message": "Loop aan/uit"
+   },
+   "shortcut_toggleVocalReducer": {
+      "message": "Vocal Reducer aan/uit"
+   },
+   "shortcut_transposeDown": {
+      "message": "Transponeren omlaag"
+   },
+   "shortcut_transposeUp": {
+      "message": "Transponeren omhoog"
+   },
+   "shortcut_volumeDown": {
+      "message": "Volume omlaag"
+   },
+   "shortcut_volumeUp": {
+      "message": "Volume omhoog"
+   }
+}

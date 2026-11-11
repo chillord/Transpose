@@ -1,0 +1,116 @@
+{
+   "appDesc": {
+      "message": "ፒች እና ፍጥነት ቀይር፣ ክፍሎችን ድገም፣ በYouTube፣ Spotify እና ሌሎች የሚደገፉ ድረገጾች ሙዚቃ ተለማመድ።"
+   },
+   "appName": {
+      "message": "Transpose: pitch ▸ speed ▸ loop"
+   },
+   "appShortName": {
+      "message": "Transpose"
+   },
+   "extensionMenuOpenCompact": {
+      "message": "Compact ክፈት"
+   },
+   "extensionMenuOpenSide": {
+      "message": "Side ክፈት"
+   },
+   "extensionMenuSettings": {
+      "message": "ቅንብሮች"
+   },
+   "extensionMenuSupport": {
+      "message": "ድጋፍ"
+   },
+   "shortcut_addMarker": {
+      "message": "ማርከር ጨምር"
+   },
+   "shortcut_formantDown": {
+      "message": "ፎርማንት ቀንስ"
+   },
+   "shortcut_formantUp": {
+      "message": "ፎርማንት ጨምር"
+   },
+   "shortcut_marker1": {
+      "message": "ማርከር 1"
+   },
+   "shortcut_marker2": {
+      "message": "ማርከር 2"
+   },
+   "shortcut_marker3": {
+      "message": "ማርከር 3"
+   },
+   "shortcut_marker4": {
+      "message": "ማርከር 4"
+   },
+   "shortcut_marker5": {
+      "message": "ማርከር 5"
+   },
+   "shortcut_marker6": {
+      "message": "ማርከር 6"
+   },
+   "shortcut_marker7": {
+      "message": "ማርከር 7"
+   },
+   "shortcut_marker8": {
+      "message": "ማርከር 8"
+   },
+   "shortcut_marker9": {
+      "message": "ማርከር 9"
+   },
+   "shortcut_nextMarker": {
+      "message": "ቀጣዩ ማርከር"
+   },
+   "shortcut_pitchDown": {
+      "message": "ፒች ቀንስ"
+   },
+   "shortcut_pitchUp": {
+      "message": "ፒች ጨምር"
+   },
+   "shortcut_playPause": {
+      "message": "አጫውት/አቁም"
+   },
+   "shortcut_previousBoundary": {
+      "message": "ወደ ሉፕ ወይም ዘፈን መጀመሪያ ተመለስ"
+   },
+   "shortcut_reducerAmountDown": {
+      "message": "Vocal Reducerን ቀንስ"
+   },
+   "shortcut_reducerAmountUp": {
+      "message": "Vocal Reducerን ጨምር"
+   },
+   "shortcut_seekBackward": {
+      "message": "ወደኋላ ዝለል"
+   },
+   "shortcut_seekForward": {
+      "message": "ወደፊት ዝለል"
+   },
+   "shortcut_speedDown": {
+      "message": "ፍጥነት ቀንስ"
+   },
+   "shortcut_speedUp": {
+      "message": "ፍጥነት ጨምር"
+   },
+   "shortcut_toggleAbLoop": {
+      "message": "A/B"
+   },
+   "shortcut_toggleEq": {
+      "message": "Equalizer አብራ/አጥፋ"
+   },
+   "shortcut_toggleLoop": {
+      "message": "ሉፕ አብራ/አጥፋ"
+   },
+   "shortcut_toggleVocalReducer": {
+      "message": "Vocal Reducerን አብራ/አጥፋ"
+   },
+   "shortcut_transposeDown": {
+      "message": "ትራንስፖዝ ቀንስ"
+   },
+   "shortcut_transposeUp": {
+      "message": "ትራንስፖዝ ጨምር"
+   },
+   "shortcut_volumeDown": {
+      "message": "ድምፅ ቀንስ"
+   },
+   "shortcut_volumeUp": {
+      "message": "ድምፅ ጨምር"
+   }
+}

@@ -1,0 +1,116 @@
+{
+   "appDesc": {
+      "message": "Change pitch and speed, loop sections and practice music directly on YouTube, Spotify and other supported sites."
+   },
+   "appName": {
+      "message": "Transpose: pitch ▸ speed ▸ loop"
+   },
+   "appShortName": {
+      "message": "Transpose"
+   },
+   "extensionMenuOpenCompact": {
+      "message": "Open Compact"
+   },
+   "extensionMenuOpenSide": {
+      "message": "Open Side"
+   },
+   "extensionMenuSettings": {
+      "message": "Settings"
+   },
+   "extensionMenuSupport": {
+      "message": "Support"
+   },
+   "shortcut_addMarker": {
+      "message": "Add Marker"
+   },
+   "shortcut_formantDown": {
+      "message": "Formant Down"
+   },
+   "shortcut_formantUp": {
+      "message": "Formant Up"
+   },
+   "shortcut_marker1": {
+      "message": "Marker 1"
+   },
+   "shortcut_marker2": {
+      "message": "Marker 2"
+   },
+   "shortcut_marker3": {
+      "message": "Marker 3"
+   },
+   "shortcut_marker4": {
+      "message": "Marker 4"
+   },
+   "shortcut_marker5": {
+      "message": "Marker 5"
+   },
+   "shortcut_marker6": {
+      "message": "Marker 6"
+   },
+   "shortcut_marker7": {
+      "message": "Marker 7"
+   },
+   "shortcut_marker8": {
+      "message": "Marker 8"
+   },
+   "shortcut_marker9": {
+      "message": "Marker 9"
+   },
+   "shortcut_nextMarker": {
+      "message": "Next marker"
+   },
+   "shortcut_pitchDown": {
+      "message": "Pitch Down"
+   },
+   "shortcut_pitchUp": {
+      "message": "Pitch Up"
+   },
+   "shortcut_playPause": {
+      "message": "Play/Pause"
+   },
+   "shortcut_previousBoundary": {
+      "message": "Return to loop or song start"
+   },
+   "shortcut_reducerAmountDown": {
+      "message": "Vocal Reducer Less"
+   },
+   "shortcut_reducerAmountUp": {
+      "message": "Vocal Reducer More"
+   },
+   "shortcut_seekBackward": {
+      "message": "Rewind"
+   },
+   "shortcut_seekForward": {
+      "message": "Fast forward"
+   },
+   "shortcut_speedDown": {
+      "message": "Speed Down"
+   },
+   "shortcut_speedUp": {
+      "message": "Speed Up"
+   },
+   "shortcut_toggleAbLoop": {
+      "message": "A/B"
+   },
+   "shortcut_toggleEq": {
+      "message": "Equalizer On/Off"
+   },
+   "shortcut_toggleLoop": {
+      "message": "Loop On/Off"
+   },
+   "shortcut_toggleVocalReducer": {
+      "message": "Vocal Reducer On/Off"
+   },
+   "shortcut_transposeDown": {
+      "message": "Transpose Down"
+   },
+   "shortcut_transposeUp": {
+      "message": "Transpose Up"
+   },
+   "shortcut_volumeDown": {
+      "message": "Volume Down"
+   },
+   "shortcut_volumeUp": {
+      "message": "Volume Up"
+   }
+}

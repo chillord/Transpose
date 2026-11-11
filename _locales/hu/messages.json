@@ -1,0 +1,116 @@
+{
+   "appDesc": {
+      "message": "Válts hangmagasságot és sebességet, ismételj részleteket, és gyakorolj a YouTube-on, Spotifyon és más támogatott oldalakon."
+   },
+   "appName": {
+      "message": "Transpose: hangmagasság ▸ sebesség ▸ loop"
+   },
+   "appShortName": {
+      "message": "Transpose"
+   },
+   "extensionMenuOpenCompact": {
+      "message": "Compact megnyitása"
+   },
+   "extensionMenuOpenSide": {
+      "message": "Side megnyitása"
+   },
+   "extensionMenuSettings": {
+      "message": "Beállítások"
+   },
+   "extensionMenuSupport": {
+      "message": "Támogatás"
+   },
+   "shortcut_addMarker": {
+      "message": "Marker hozzáadása"
+   },
+   "shortcut_formantDown": {
+      "message": "Formant le"
+   },
+   "shortcut_formantUp": {
+      "message": "Formant fel"
+   },
+   "shortcut_marker1": {
+      "message": "marker 1"
+   },
+   "shortcut_marker2": {
+      "message": "marker 2"
+   },
+   "shortcut_marker3": {
+      "message": "marker 3"
+   },
+   "shortcut_marker4": {
+      "message": "marker 4"
+   },
+   "shortcut_marker5": {
+      "message": "marker 5"
+   },
+   "shortcut_marker6": {
+      "message": "marker 6"
+   },
+   "shortcut_marker7": {
+      "message": "marker 7"
+   },
+   "shortcut_marker8": {
+      "message": "marker 8"
+   },
+   "shortcut_marker9": {
+      "message": "marker 9"
+   },
+   "shortcut_nextMarker": {
+      "message": "Következő jelölő"
+   },
+   "shortcut_pitchDown": {
+      "message": "Pitch le"
+   },
+   "shortcut_pitchUp": {
+      "message": "Pitch fel"
+   },
+   "shortcut_playPause": {
+      "message": "Lejátszás/Szünet"
+   },
+   "shortcut_previousBoundary": {
+      "message": "Vissza a hurok vagy a dal elejére"
+   },
+   "shortcut_reducerAmountDown": {
+      "message": "Kevesebb Vocal Reducer"
+   },
+   "shortcut_reducerAmountUp": {
+      "message": "Több Vocal Reducer"
+   },
+   "shortcut_seekBackward": {
+      "message": "Ugrás hátra"
+   },
+   "shortcut_seekForward": {
+      "message": "Ugrás előre"
+   },
+   "shortcut_speedDown": {
+      "message": "Sebesség csökkentése"
+   },
+   "shortcut_speedUp": {
+      "message": "Sebesség növelése"
+   },
+   "shortcut_toggleAbLoop": {
+      "message": "A/B"
+   },
+   "shortcut_toggleEq": {
+      "message": "Equalizer be/ki"
+   },
+   "shortcut_toggleLoop": {
+      "message": "Loop ki/be"
+   },
+   "shortcut_toggleVocalReducer": {
+      "message": "Vocal Reducer be/ki"
+   },
+   "shortcut_transposeDown": {
+      "message": "Transpose le"
+   },
+   "shortcut_transposeUp": {
+      "message": "Transpose fel"
+   },
+   "shortcut_volumeDown": {
+      "message": "Hangerő csökkentése"
+   },
+   "shortcut_volumeUp": {
+      "message": "Hangerő növelése"
+   }
+}

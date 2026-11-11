@@ -1,0 +1,116 @@
+{
+   "appDesc": {
+      "message": "YouTube, Spotify உள்ளிட்ட ஆதரிக்கப்படும் தளங்களில் சுருதி, வேகத்தை மாற்றி, பகுதிகளை மீண்டும் கேட்டு இசைப் பயிற்சி செய்."
+   },
+   "appName": {
+      "message": "Transpose: சுருதி ▸ வேகம் ▸ லூப்"
+   },
+   "appShortName": {
+      "message": "Transpose"
+   },
+   "extensionMenuOpenCompact": {
+      "message": "Compact-ஐத் திற"
+   },
+   "extensionMenuOpenSide": {
+      "message": "Side-ஐத் திற"
+   },
+   "extensionMenuSettings": {
+      "message": "செட்டிங்ஸ்"
+   },
+   "extensionMenuSupport": {
+      "message": "ஆதரவு"
+   },
+   "shortcut_addMarker": {
+      "message": "மார்க்கர் சேர்"
+   },
+   "shortcut_formantDown": {
+      "message": "Formant குறை"
+   },
+   "shortcut_formantUp": {
+      "message": "Formant கூட்டு"
+   },
+   "shortcut_marker1": {
+      "message": "மார்க்கர் 1"
+   },
+   "shortcut_marker2": {
+      "message": "மார்க்கர் 2"
+   },
+   "shortcut_marker3": {
+      "message": "மார்க்கர் 3"
+   },
+   "shortcut_marker4": {
+      "message": "மார்க்கர் 4"
+   },
+   "shortcut_marker5": {
+      "message": "மார்க்கர் 5"
+   },
+   "shortcut_marker6": {
+      "message": "மார்க்கர் 6"
+   },
+   "shortcut_marker7": {
+      "message": "மார்க்கர் 7"
+   },
+   "shortcut_marker8": {
+      "message": "மார்க்கர் 8"
+   },
+   "shortcut_marker9": {
+      "message": "மார்க்கர் 9"
+   },
+   "shortcut_nextMarker": {
+      "message": "அடுத்த மார்க்கர்"
+   },
+   "shortcut_pitchDown": {
+      "message": "பிட்ச் குறை"
+   },
+   "shortcut_pitchUp": {
+      "message": "பிட்ச் கூட்டு"
+   },
+   "shortcut_playPause": {
+      "message": "பிளே/பாஸ்"
+   },
+   "shortcut_previousBoundary": {
+      "message": "லூப் அல்லது பாடலின் தொடக்கத்திற்குத் திரும்பு"
+   },
+   "shortcut_reducerAmountDown": {
+      "message": "Vocal Reducer குறை"
+   },
+   "shortcut_reducerAmountUp": {
+      "message": "Vocal Reducer கூட்டு"
+   },
+   "shortcut_seekBackward": {
+      "message": "பின் செல்"
+   },
+   "shortcut_seekForward": {
+      "message": "முன் செல்"
+   },
+   "shortcut_speedDown": {
+      "message": "ஸ்பீடு குறை"
+   },
+   "shortcut_speedUp": {
+      "message": "ஸ்பீடு கூட்டு"
+   },
+   "shortcut_toggleAbLoop": {
+      "message": "A/B"
+   },
+   "shortcut_toggleEq": {
+      "message": "Equalizer ஆன்/ஆஃப்"
+   },
+   "shortcut_toggleLoop": {
+      "message": "லூப் ஆன்/ஆஃப்"
+   },
+   "shortcut_toggleVocalReducer": {
+      "message": "Vocal Reducer ஆன்/ஆஃப்"
+   },
+   "shortcut_transposeDown": {
+      "message": "டிரான்ஸ்போஸ் குறை"
+   },
+   "shortcut_transposeUp": {
+      "message": "டிரான்ஸ்போஸ் கூட்டு"
+   },
+   "shortcut_volumeDown": {
+      "message": "ஒலி குறை"
+   },
+   "shortcut_volumeUp": {
+      "message": "ஒலி கூட்டு"
+   }
+}

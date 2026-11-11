@@ -1,0 +1,45 @@
+{
+  "package": "onnxruntime-web",
+  "version": "1.26.0",
+  "tarball": "https://registry.npmjs.org/onnxruntime-web/-/onnxruntime-web-1.26.0.tgz",
+  "integrity": "sha512-LbRr/8zZt2xilI2smrVQGGKINo0U46i8qJp+UXyMBGfqN7KjnH1BiwCwLwyNIVV4i9CKFv7Sf4PwLKWnT8/bEA==",
+  "backend": "Original 1.26.0 JSEP/WebGPU for stems; separate original 1.26.0 CPU/WASM JS entry for chord and tempo inference with GPU preprocessing. Both instantiate the same packaged JSEP native files independently; plain native files below are retained as source provenance only, not shipped.",
+  "files": [
+    {
+      "name": "ort.all.min.mjs",
+      "sha256": "19e4bc3c09cebc6407b8b0c30d62c08b2730dc73bbe1bc8363851100506a4189",
+      "bytes": 794593,
+      "source": "6.5.2 baseline 869e2d4223ab9785a43f6608b5a2610b52307751"
+    },
+    {
+      "name": "ort-wasm-simd-threaded.jsep.mjs",
+      "sha256": "33949a3310b723a3ee14dc2da989e55060de26a75e2346095a150a042c9aad4e",
+      "bytes": 46489,
+      "source": "6.5.2 baseline 869e2d4223ab9785a43f6608b5a2610b52307751"
+    },
+    {
+      "name": "ort-wasm-simd-threaded.jsep.wasm",
+      "sha256": "411b39a77bb006ce0cf17b30c978c66a130ebb2ba39c8dfdbdc9c1c5a251ae76",
+      "bytes": 26239907,
+      "source": "6.5.2 baseline 869e2d4223ab9785a43f6608b5a2610b52307751"
+    },
+    {
+      "name": "ort.wasm.min.mjs",
+      "sha256": "aeb30d22447d16a48d2e2f94acf1b85526d9af8dd9791f921482277d78de89c6",
+      "bytes": 50088,
+      "source": "Official pinned npm tarball package/dist/ort.wasm.min.mjs"
+    },
+    {
+      "name": "ort-wasm-simd-threaded.mjs",
+      "sha256": "2de262ca1fe2d6e0ef9236bf77632fa01de232ce7b6a33071c37637ee53f4669",
+      "bytes": 24180,
+      "source": "Official pinned npm tarball package/dist/ort-wasm-simd-threaded.mjs"
+    },
+    {
+      "name": "ort-wasm-simd-threaded.wasm",
+      "sha256": "040d52ce5066707a10d45cb9500c35e70a9c2fb33c4fb63428da9ae45b956b97",
+      "bytes": 13022405,
+      "source": "Official pinned npm tarball package/dist/ort-wasm-simd-threaded.wasm"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+   "appDesc": {
+      "message": "Мењај висину тона и брзину, понављај делове и вежбај музику на YouTube, Spotify и другим подржаним сајтовима."
+   },
+   "appName": {
+      "message": "Transpose: висина тона ▸ брзина ▸ лупови"
+   },
+   "appShortName": {
+      "message": "Transpose"
+   },
+   "extensionMenuOpenCompact": {
+      "message": "Отвори Compact"
+   },
+   "extensionMenuOpenSide": {
+      "message": "Отвори Side"
+   },
+   "extensionMenuSettings": {
+      "message": "Подешавања"
+   },
+   "extensionMenuSupport": {
+      "message": "Подршка"
+   },
+   "shortcut_addMarker": {
+      "message": "Додај маркер"
+   },
+   "shortcut_formantDown": {
+      "message": "Смањи формант"
+   },
+   "shortcut_formantUp": {
+      "message": "Повећај формант"
+   },
+   "shortcut_marker1": {
+      "message": "маркер 1"
+   },
+   "shortcut_marker2": {
+      "message": "маркер 2"
+   },
+   "shortcut_marker3": {
+      "message": "маркер 3"
+   },
+   "shortcut_marker4": {
+      "message": "маркер 4"
+   },
+   "shortcut_marker5": {
+      "message": "маркер 5"
+   },
+   "shortcut_marker6": {
+      "message": "маркер 6"
+   },
+   "shortcut_marker7": {
+      "message": "маркер 7"
+   },
+   "shortcut_marker8": {
+      "message": "маркер 8"
+   },
+   "shortcut_marker9": {
+      "message": "маркер 9"
+   },
+   "shortcut_nextMarker": {
+      "message": "Следећи маркер"
+   },
+   "shortcut_pitchDown": {
+      "message": "Смањи висину тона"
+   },
+   "shortcut_pitchUp": {
+      "message": "Повећај висину тона"
+   },
+   "shortcut_playPause": {
+      "message": "Пусти/Пауза"
+   },
+   "shortcut_previousBoundary": {
+      "message": "Повратак на почетак лупа или песме"
+   },
+   "shortcut_reducerAmountDown": {
+      "message": "Мање вокалног редуктора"
+   },
+   "shortcut_reducerAmountUp": {
+      "message": "Више вокалног редуктора"
+   },
+   "shortcut_seekBackward": {
+      "message": "Скочи назад"
+   },
+   "shortcut_seekForward": {
+      "message": "Скочи напред"
+   },
+   "shortcut_speedDown": {
+      "message": "Смањи брзину"
+   },
+   "shortcut_speedUp": {
+      "message": "Повећај брзину"
+   },
+   "shortcut_toggleAbLoop": {
+      "message": "A/B"
+   },
+   "shortcut_toggleEq": {
+      "message": "EQ укљ./искљ."
+   },
+   "shortcut_toggleLoop": {
+      "message": "Укључи/искључи луп"
+   },
+   "shortcut_toggleVocalReducer": {
+      "message": "Вокални редуктор укљ./искљ."
+   },
+   "shortcut_transposeDown": {
+      "message": "Смањи транспозицију"
+   },
+   "shortcut_transposeUp": {
+      "message": "Повећај транспозицију"
+   },
+   "shortcut_volumeDown": {
+      "message": "Јачина -"
+   },
+   "shortcut_volumeUp": {
+      "message": "Јачина +"
+   }
+}

@@ -1,0 +1,1 @@
+import{c as a}from"./chunk-BMVgGTqU.js";a("firebase","11.10.0","app");

@@ -1,0 +1,116 @@
+{
+   "appDesc": {
+      "message": "Ubah pitch dan kelajuan, ulang bahagian lagu dan berlatih terus di YouTube, Spotify serta laman lain yang disokong."
+   },
+   "appName": {
+      "message": "Transpose: pitch ▸ kelajuan ▸ loop"
+   },
+   "appShortName": {
+      "message": "Transpose"
+   },
+   "extensionMenuOpenCompact": {
+      "message": "Buka Compact"
+   },
+   "extensionMenuOpenSide": {
+      "message": "Buka Side"
+   },
+   "extensionMenuSettings": {
+      "message": "Tetapan"
+   },
+   "extensionMenuSupport": {
+      "message": "Sokongan"
+   },
+   "shortcut_addMarker": {
+      "message": "Tambah Marker"
+   },
+   "shortcut_formantDown": {
+      "message": "Formant Turun"
+   },
+   "shortcut_formantUp": {
+      "message": "Formant Naik"
+   },
+   "shortcut_marker1": {
+      "message": "Marker 1"
+   },
+   "shortcut_marker2": {
+      "message": "Marker 2"
+   },
+   "shortcut_marker3": {
+      "message": "Marker 3"
+   },
+   "shortcut_marker4": {
+      "message": "Marker 4"
+   },
+   "shortcut_marker5": {
+      "message": "Marker 5"
+   },
+   "shortcut_marker6": {
+      "message": "Marker 6"
+   },
+   "shortcut_marker7": {
+      "message": "Marker 7"
+   },
+   "shortcut_marker8": {
+      "message": "Marker 8"
+   },
+   "shortcut_marker9": {
+      "message": "Marker 9"
+   },
+   "shortcut_nextMarker": {
+      "message": "Penanda seterusnya"
+   },
+   "shortcut_pitchDown": {
+      "message": "Turunkan Pitch"
+   },
+   "shortcut_pitchUp": {
+      "message": "Naikkan Pitch"
+   },
+   "shortcut_playPause": {
+      "message": "Main/Jeda"
+   },
+   "shortcut_previousBoundary": {
+      "message": "Kembali ke permulaan gelung atau lagu"
+   },
+   "shortcut_reducerAmountDown": {
+      "message": "Vocal Reducer Kurang"
+   },
+   "shortcut_reducerAmountUp": {
+      "message": "Vocal Reducer Lebih"
+   },
+   "shortcut_seekBackward": {
+      "message": "Lompat ke belakang"
+   },
+   "shortcut_seekForward": {
+      "message": "Lompat ke hadapan"
+   },
+   "shortcut_speedDown": {
+      "message": "Kurangkan kelajuan"
+   },
+   "shortcut_speedUp": {
+      "message": "Tambah kelajuan"
+   },
+   "shortcut_toggleAbLoop": {
+      "message": "A/B"
+   },
+   "shortcut_toggleEq": {
+      "message": "Equalizer Hidup/Mati"
+   },
+   "shortcut_toggleLoop": {
+      "message": "Togol Loop"
+   },
+   "shortcut_toggleVocalReducer": {
+      "message": "Vocal Reducer Hidup/Mati"
+   },
+   "shortcut_transposeDown": {
+      "message": "Turunkan Transpose"
+   },
+   "shortcut_transposeUp": {
+      "message": "Naikkan Transpose"
+   },
+   "shortcut_volumeDown": {
+      "message": "Volume Turun"
+   },
+   "shortcut_volumeUp": {
+      "message": "Volume Naik"
+   }
+}

@@ -1,0 +1,116 @@
+{
+   "appDesc": {
+      "message": "Endre tonehøyde og hastighet, gjenta partier og øv direkte på YouTube, Spotify og andre støttede nettsteder."
+   },
+   "appName": {
+      "message": "Transpose: tonehøyde ▸ hastighet ▸ loop"
+   },
+   "appShortName": {
+      "message": "Transpose"
+   },
+   "extensionMenuOpenCompact": {
+      "message": "Åpne Compact"
+   },
+   "extensionMenuOpenSide": {
+      "message": "Åpne Side"
+   },
+   "extensionMenuSettings": {
+      "message": "Innstillinger"
+   },
+   "extensionMenuSupport": {
+      "message": "Brukerstøtte"
+   },
+   "shortcut_addMarker": {
+      "message": "Legg til markør"
+   },
+   "shortcut_formantDown": {
+      "message": "Formant ned"
+   },
+   "shortcut_formantUp": {
+      "message": "Formant opp"
+   },
+   "shortcut_marker1": {
+      "message": "Markør 1"
+   },
+   "shortcut_marker2": {
+      "message": "Markør 2"
+   },
+   "shortcut_marker3": {
+      "message": "Markør 3"
+   },
+   "shortcut_marker4": {
+      "message": "Markør 4"
+   },
+   "shortcut_marker5": {
+      "message": "Markør 5"
+   },
+   "shortcut_marker6": {
+      "message": "Markør 6"
+   },
+   "shortcut_marker7": {
+      "message": "Markør 7"
+   },
+   "shortcut_marker8": {
+      "message": "Markør 8"
+   },
+   "shortcut_marker9": {
+      "message": "Markør 9"
+   },
+   "shortcut_nextMarker": {
+      "message": "Neste markør"
+   },
+   "shortcut_pitchDown": {
+      "message": "Senk finstemming"
+   },
+   "shortcut_pitchUp": {
+      "message": "Øk finstemming"
+   },
+   "shortcut_playPause": {
+      "message": "Spill/Pause"
+   },
+   "shortcut_previousBoundary": {
+      "message": "Tilbake til starten av loopen eller sangen"
+   },
+   "shortcut_reducerAmountDown": {
+      "message": "Mindre Vocal Reducer"
+   },
+   "shortcut_reducerAmountUp": {
+      "message": "Mer Vocal Reducer"
+   },
+   "shortcut_seekBackward": {
+      "message": "Spol bakover"
+   },
+   "shortcut_seekForward": {
+      "message": "Spol fremover"
+   },
+   "shortcut_speedDown": {
+      "message": "Senk hastighet"
+   },
+   "shortcut_speedUp": {
+      "message": "Øk hastighet"
+   },
+   "shortcut_toggleAbLoop": {
+      "message": "A/B"
+   },
+   "shortcut_toggleEq": {
+      "message": "Equalizer På/Av"
+   },
+   "shortcut_toggleLoop": {
+      "message": "Slå Loop av/på"
+   },
+   "shortcut_toggleVocalReducer": {
+      "message": "Vocal Reducer På/Av"
+   },
+   "shortcut_transposeDown": {
+      "message": "Transponer ned"
+   },
+   "shortcut_transposeUp": {
+      "message": "Transponer opp"
+   },
+   "shortcut_volumeDown": {
+      "message": "Volum ned"
+   },
+   "shortcut_volumeUp": {
+      "message": "Volum opp"
+   }
+}

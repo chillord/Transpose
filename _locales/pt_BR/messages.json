@@ -1,0 +1,116 @@
+{
+   "appDesc": {
+      "message": "Mude o tom e a velocidade, repita trechos e pratique música direto no YouTube, Spotify e outros sites compatíveis."
+   },
+   "appName": {
+      "message": "Transpose: pitch ▸ velocidade ▸ loops"
+   },
+   "appShortName": {
+      "message": "Transpose"
+   },
+   "extensionMenuOpenCompact": {
+      "message": "Abrir Compact"
+   },
+   "extensionMenuOpenSide": {
+      "message": "Abrir Side"
+   },
+   "extensionMenuSettings": {
+      "message": "Configurações"
+   },
+   "extensionMenuSupport": {
+      "message": "Suporte"
+   },
+   "shortcut_addMarker": {
+      "message": "Adicionar marcador"
+   },
+   "shortcut_formantDown": {
+      "message": "Formant -"
+   },
+   "shortcut_formantUp": {
+      "message": "Formant +"
+   },
+   "shortcut_marker1": {
+      "message": "Marcador 1"
+   },
+   "shortcut_marker2": {
+      "message": "Marcador 2"
+   },
+   "shortcut_marker3": {
+      "message": "Marcador 3"
+   },
+   "shortcut_marker4": {
+      "message": "Marcador 4"
+   },
+   "shortcut_marker5": {
+      "message": "Marcador 5"
+   },
+   "shortcut_marker6": {
+      "message": "Marcador 6"
+   },
+   "shortcut_marker7": {
+      "message": "Marcador 7"
+   },
+   "shortcut_marker8": {
+      "message": "Marcador 8"
+   },
+   "shortcut_marker9": {
+      "message": "Marcador 9"
+   },
+   "shortcut_nextMarker": {
+      "message": "Próximo marcador"
+   },
+   "shortcut_pitchDown": {
+      "message": "Pitch −"
+   },
+   "shortcut_pitchUp": {
+      "message": "Pitch +"
+   },
+   "shortcut_playPause": {
+      "message": "Reproduzir/Pausar"
+   },
+   "shortcut_previousBoundary": {
+      "message": "Voltar ao início do loop ou da música"
+   },
+   "shortcut_reducerAmountDown": {
+      "message": "Menos redutor vocal"
+   },
+   "shortcut_reducerAmountUp": {
+      "message": "Mais redutor vocal"
+   },
+   "shortcut_seekBackward": {
+      "message": "Retroceder"
+   },
+   "shortcut_seekForward": {
+      "message": "Avançar"
+   },
+   "shortcut_speedDown": {
+      "message": "Velocidade −"
+   },
+   "shortcut_speedUp": {
+      "message": "Velocidade +"
+   },
+   "shortcut_toggleAbLoop": {
+      "message": "A/B"
+   },
+   "shortcut_toggleEq": {
+      "message": "Equalizador Ligar/Desligar"
+   },
+   "shortcut_toggleLoop": {
+      "message": "Alternar Loop"
+   },
+   "shortcut_toggleVocalReducer": {
+      "message": "Redutor vocal Ligar/Desligar"
+   },
+   "shortcut_transposeDown": {
+      "message": "Transpose −"
+   },
+   "shortcut_transposeUp": {
+      "message": "Transpose +"
+   },
+   "shortcut_volumeDown": {
+      "message": "Diminuir volume"
+   },
+   "shortcut_volumeUp": {
+      "message": "Aumentar volume"
+   }
+}

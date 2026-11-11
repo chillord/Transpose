@@ -1,0 +1,116 @@
+{
+   "appDesc": {
+      "message": "YouTube، Spotify اور دیگر معاون سائٹس پر موسیقی کا سُر اور رفتار بدلیں، حصے بار بار سنیں اور ریاض کریں۔"
+   },
+   "appName": {
+      "message": "Transpose: سُر ▸ رفتار ▸ لوپ"
+   },
+   "appShortName": {
+      "message": "Transpose"
+   },
+   "extensionMenuOpenCompact": {
+      "message": "Compact کھولیں"
+   },
+   "extensionMenuOpenSide": {
+      "message": "Side کھولیں"
+   },
+   "extensionMenuSettings": {
+      "message": "ترتیبات"
+   },
+   "extensionMenuSupport": {
+      "message": "مدد"
+   },
+   "shortcut_addMarker": {
+      "message": "نشان شامل کریں"
+   },
+   "shortcut_formantDown": {
+      "message": "فارمینٹ کم کریں"
+   },
+   "shortcut_formantUp": {
+      "message": "فارمینٹ بڑھائیں"
+   },
+   "shortcut_marker1": {
+      "message": "نشان 1"
+   },
+   "shortcut_marker2": {
+      "message": "نشان 2"
+   },
+   "shortcut_marker3": {
+      "message": "نشان 3"
+   },
+   "shortcut_marker4": {
+      "message": "نشان 4"
+   },
+   "shortcut_marker5": {
+      "message": "نشان 5"
+   },
+   "shortcut_marker6": {
+      "message": "نشان 6"
+   },
+   "shortcut_marker7": {
+      "message": "نشان 7"
+   },
+   "shortcut_marker8": {
+      "message": "نشان 8"
+   },
+   "shortcut_marker9": {
+      "message": "نشان 9"
+   },
+   "shortcut_nextMarker": {
+      "message": "اگلا نشان"
+   },
+   "shortcut_pitchDown": {
+      "message": "پچ ذرا کم کریں"
+   },
+   "shortcut_pitchUp": {
+      "message": "پچ ذرا بڑھائیں"
+   },
+   "shortcut_playPause": {
+      "message": "چلائیں / روکیں"
+   },
+   "shortcut_previousBoundary": {
+      "message": "لوپ یا گانے کے آغاز پر واپس جائیں"
+   },
+   "shortcut_reducerAmountDown": {
+      "message": "Vocal Reducer کم کریں"
+   },
+   "shortcut_reducerAmountUp": {
+      "message": "Vocal Reducer بڑھائیں"
+   },
+   "shortcut_seekBackward": {
+      "message": "ری وائنڈ"
+   },
+   "shortcut_seekForward": {
+      "message": "فاسٹ فارورڈ"
+   },
+   "shortcut_speedDown": {
+      "message": "رفتار کم کریں"
+   },
+   "shortcut_speedUp": {
+      "message": "رفتار بڑھائیں"
+   },
+   "shortcut_toggleAbLoop": {
+      "message": "A/B"
+   },
+   "shortcut_toggleEq": {
+      "message": "ایکولائزر آن / آف"
+   },
+   "shortcut_toggleLoop": {
+      "message": "لوپ آن / آف"
+   },
+   "shortcut_toggleVocalReducer": {
+      "message": "Vocal Reducer آن / آف"
+   },
+   "shortcut_transposeDown": {
+      "message": "سر نیچا کریں"
+   },
+   "shortcut_transposeUp": {
+      "message": "سر اونچا کریں"
+   },
+   "shortcut_volumeDown": {
+      "message": "آواز کم کریں"
+   },
+   "shortcut_volumeUp": {
+      "message": "آواز بڑھائیں"
+   }
+}

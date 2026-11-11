@@ -1,0 +1,116 @@
+{
+   "appDesc": {
+      "message": "YouTubeやSpotifyなどの対応サイトで、曲のキーや再生速度を変更。苦手なフレーズをループして、自分に合ったペースで練習。"
+   },
+   "appName": {
+      "message": "Transpose：キー ▸ 速度変更 ▸ ループ"
+   },
+   "appShortName": {
+      "message": "Transpose"
+   },
+   "extensionMenuOpenCompact": {
+      "message": "Compactを開く"
+   },
+   "extensionMenuOpenSide": {
+      "message": "Sideを開く"
+   },
+   "extensionMenuSettings": {
+      "message": "設定"
+   },
+   "extensionMenuSupport": {
+      "message": "サポート"
+   },
+   "shortcut_addMarker": {
+      "message": "マーカー追加"
+   },
+   "shortcut_formantDown": {
+      "message": "フォルマント -"
+   },
+   "shortcut_formantUp": {
+      "message": "フォルマント +"
+   },
+   "shortcut_marker1": {
+      "message": "マーカー 1"
+   },
+   "shortcut_marker2": {
+      "message": "マーカー 2"
+   },
+   "shortcut_marker3": {
+      "message": "マーカー 3"
+   },
+   "shortcut_marker4": {
+      "message": "マーカー 4"
+   },
+   "shortcut_marker5": {
+      "message": "マーカー 5"
+   },
+   "shortcut_marker6": {
+      "message": "マーカー 6"
+   },
+   "shortcut_marker7": {
+      "message": "マーカー 7"
+   },
+   "shortcut_marker8": {
+      "message": "マーカー 8"
+   },
+   "shortcut_marker9": {
+      "message": "マーカー 9"
+   },
+   "shortcut_nextMarker": {
+      "message": "次のマーカー"
+   },
+   "shortcut_pitchDown": {
+      "message": "ピッチ -"
+   },
+   "shortcut_pitchUp": {
+      "message": "ピッチ +"
+   },
+   "shortcut_playPause": {
+      "message": "再生/一時停止"
+   },
+   "shortcut_previousBoundary": {
+      "message": "ループまたは曲の先頭に戻る"
+   },
+   "shortcut_reducerAmountDown": {
+      "message": "Vocal Reducerを弱く"
+   },
+   "shortcut_reducerAmountUp": {
+      "message": "Vocal Reducerを強く"
+   },
+   "shortcut_seekBackward": {
+      "message": "巻き戻し"
+   },
+   "shortcut_seekForward": {
+      "message": "早送り"
+   },
+   "shortcut_speedDown": {
+      "message": "速度 -"
+   },
+   "shortcut_speedUp": {
+      "message": "速度 +"
+   },
+   "shortcut_toggleAbLoop": {
+      "message": "A/B"
+   },
+   "shortcut_toggleEq": {
+      "message": "イコライザー オン/オフ"
+   },
+   "shortcut_toggleLoop": {
+      "message": "ループ切替"
+   },
+   "shortcut_toggleVocalReducer": {
+      "message": "Vocal Reducer オン/オフ"
+   },
+   "shortcut_transposeDown": {
+      "message": "トランスポーズ -"
+   },
+   "shortcut_transposeUp": {
+      "message": "トランスポーズ +"
+   },
+   "shortcut_volumeDown": {
+      "message": "音量 -"
+   },
+   "shortcut_volumeUp": {
+      "message": "音量 +"
+   }
+}

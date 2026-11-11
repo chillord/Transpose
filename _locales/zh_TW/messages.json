@@ -1,0 +1,116 @@
+{
+   "appDesc": {
+      "message": "直接在 YouTube、Spotify 等支援的網站上調整音高與速度、循環片段，練習音樂。"
+   },
+   "appName": {
+      "message": "Transpose：移調 ▸ 變速 ▸ 循環練習"
+   },
+   "appShortName": {
+      "message": "Transpose"
+   },
+   "extensionMenuOpenCompact": {
+      "message": "開啟 Compact"
+   },
+   "extensionMenuOpenSide": {
+      "message": "開啟 Side"
+   },
+   "extensionMenuSettings": {
+      "message": "設定"
+   },
+   "extensionMenuSupport": {
+      "message": "支援"
+   },
+   "shortcut_addMarker": {
+      "message": "新增標記"
+   },
+   "shortcut_formantDown": {
+      "message": "共振峰降低"
+   },
+   "shortcut_formantUp": {
+      "message": "共振峰提高"
+   },
+   "shortcut_marker1": {
+      "message": "標記 1"
+   },
+   "shortcut_marker2": {
+      "message": "標記 2"
+   },
+   "shortcut_marker3": {
+      "message": "標記 3"
+   },
+   "shortcut_marker4": {
+      "message": "標記 4"
+   },
+   "shortcut_marker5": {
+      "message": "標記 5"
+   },
+   "shortcut_marker6": {
+      "message": "標記 6"
+   },
+   "shortcut_marker7": {
+      "message": "標記 7"
+   },
+   "shortcut_marker8": {
+      "message": "標記 8"
+   },
+   "shortcut_marker9": {
+      "message": "標記 9"
+   },
+   "shortcut_nextMarker": {
+      "message": "下一個標記"
+   },
+   "shortcut_pitchDown": {
+      "message": "音高 -"
+   },
+   "shortcut_pitchUp": {
+      "message": "音高 +"
+   },
+   "shortcut_playPause": {
+      "message": "播放/暫停"
+   },
+   "shortcut_previousBoundary": {
+      "message": "返回循環或歌曲起點"
+   },
+   "shortcut_reducerAmountDown": {
+      "message": "減弱 Vocal Reducer"
+   },
+   "shortcut_reducerAmountUp": {
+      "message": "增強 Vocal Reducer"
+   },
+   "shortcut_seekBackward": {
+      "message": "倒轉"
+   },
+   "shortcut_seekForward": {
+      "message": "快轉"
+   },
+   "shortcut_speedDown": {
+      "message": "速度 -"
+   },
+   "shortcut_speedUp": {
+      "message": "速度 +"
+   },
+   "shortcut_toggleAbLoop": {
+      "message": "A/B"
+   },
+   "shortcut_toggleEq": {
+      "message": "等化器 開/關"
+   },
+   "shortcut_toggleLoop": {
+      "message": "切換循環"
+   },
+   "shortcut_toggleVocalReducer": {
+      "message": "Vocal Reducer 開/關"
+   },
+   "shortcut_transposeDown": {
+      "message": "移調 -"
+   },
+   "shortcut_transposeUp": {
+      "message": "移調 +"
+   },
+   "shortcut_volumeDown": {
+      "message": "音量降低"
+   },
+   "shortcut_volumeUp": {
+      "message": "音量提高"
+   }
+}

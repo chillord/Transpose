@@ -1,0 +1,116 @@
+{
+   "appDesc": {
+      "message": "Mainiet mūzikas tonalitāti un ātrumu, atkārtojiet fragmentus un vingrinieties YouTube, Spotify un citās atbalstītās vietnēs."
+   },
+   "appName": {
+      "message": "Transpose: tonalitāte ▸ ātrums ▸ cilpas"
+   },
+   "appShortName": {
+      "message": "Transpose"
+   },
+   "extensionMenuOpenCompact": {
+      "message": "Atvērt Compact"
+   },
+   "extensionMenuOpenSide": {
+      "message": "Atvērt Studio režīmā Side"
+   },
+   "extensionMenuSettings": {
+      "message": "Iestatījumi"
+   },
+   "extensionMenuSupport": {
+      "message": "Atbalsts"
+   },
+   "shortcut_addMarker": {
+      "message": "Pievienot marķieri"
+   },
+   "shortcut_formantDown": {
+      "message": "Pazemināt formantu"
+   },
+   "shortcut_formantUp": {
+      "message": "Paaugstināt formantu"
+   },
+   "shortcut_marker1": {
+      "message": "Marķieris 1"
+   },
+   "shortcut_marker2": {
+      "message": "Marķieris 2"
+   },
+   "shortcut_marker3": {
+      "message": "Marķieris 3"
+   },
+   "shortcut_marker4": {
+      "message": "Marķieris 4"
+   },
+   "shortcut_marker5": {
+      "message": "Marķieris 5"
+   },
+   "shortcut_marker6": {
+      "message": "Marķieris 6"
+   },
+   "shortcut_marker7": {
+      "message": "Marķieris 7"
+   },
+   "shortcut_marker8": {
+      "message": "Marķieris 8"
+   },
+   "shortcut_marker9": {
+      "message": "Marķieris 9"
+   },
+   "shortcut_nextMarker": {
+      "message": "Nākamais marķieris"
+   },
+   "shortcut_pitchDown": {
+      "message": "Pazemināt toni"
+   },
+   "shortcut_pitchUp": {
+      "message": "Paaugstināt toni"
+   },
+   "shortcut_playPause": {
+      "message": "Atskaņot/Pauzēt"
+   },
+   "shortcut_previousBoundary": {
+      "message": "Atgriezties cilpas vai dziesmas sākumā"
+   },
+   "shortcut_reducerAmountDown": {
+      "message": "Mazāk Vocal Reducer"
+   },
+   "shortcut_reducerAmountUp": {
+      "message": "Vairāk Vocal Reducer"
+   },
+   "shortcut_seekBackward": {
+      "message": "Pārtīt atpakaļ"
+   },
+   "shortcut_seekForward": {
+      "message": "Pārtīt uz priekšu"
+   },
+   "shortcut_speedDown": {
+      "message": "Samazināt ātrumu"
+   },
+   "shortcut_speedUp": {
+      "message": "Palielināt ātrumu"
+   },
+   "shortcut_toggleAbLoop": {
+      "message": "A/B"
+   },
+   "shortcut_toggleEq": {
+      "message": "Ieslēgt/izslēgt ekvalaizeru"
+   },
+   "shortcut_toggleLoop": {
+      "message": "Ieslēgt/izslēgt cilpu"
+   },
+   "shortcut_toggleVocalReducer": {
+      "message": "Ieslēgt/izslēgt Vocal Reducer"
+   },
+   "shortcut_transposeDown": {
+      "message": "Samazināt transponēšanu"
+   },
+   "shortcut_transposeUp": {
+      "message": "Palielināt transponēšanu"
+   },
+   "shortcut_volumeDown": {
+      "message": "Samazināt skaļumu"
+   },
+   "shortcut_volumeUp": {
+      "message": "Palielināt skaļumu"
+   }
+}

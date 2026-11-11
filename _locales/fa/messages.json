@@ -1,0 +1,116 @@
+{
+   "appDesc": {
+      "message": "زیر و بمی و سرعت را تغییر بده، بخش‌ها را لوپ کن و موسیقی را در YouTube، Spotify و سایت‌های پشتیبانی‌شده تمرین کن."
+   },
+   "appName": {
+      "message": "Transpose: pitch ▸ speed ▸ loop"
+   },
+   "appShortName": {
+      "message": "Transpose"
+   },
+   "extensionMenuOpenCompact": {
+      "message": "باز کردن Compact"
+   },
+   "extensionMenuOpenSide": {
+      "message": "باز کردن Side"
+   },
+   "extensionMenuSettings": {
+      "message": "تنظیمات"
+   },
+   "extensionMenuSupport": {
+      "message": "پشتیبانی"
+   },
+   "shortcut_addMarker": {
+      "message": "افزودن مارکر"
+   },
+   "shortcut_formantDown": {
+      "message": "کاهش فرمنت"
+   },
+   "shortcut_formantUp": {
+      "message": "افزایش فرمنت"
+   },
+   "shortcut_marker1": {
+      "message": "مارکر 1"
+   },
+   "shortcut_marker2": {
+      "message": "مارکر 2"
+   },
+   "shortcut_marker3": {
+      "message": "مارکر 3"
+   },
+   "shortcut_marker4": {
+      "message": "مارکر 4"
+   },
+   "shortcut_marker5": {
+      "message": "مارکر 5"
+   },
+   "shortcut_marker6": {
+      "message": "مارکر 6"
+   },
+   "shortcut_marker7": {
+      "message": "مارکر 7"
+   },
+   "shortcut_marker8": {
+      "message": "مارکر 8"
+   },
+   "shortcut_marker9": {
+      "message": "مارکر 9"
+   },
+   "shortcut_nextMarker": {
+      "message": "نشانگر بعدی"
+   },
+   "shortcut_pitchDown": {
+      "message": "کاهش پیچ"
+   },
+   "shortcut_pitchUp": {
+      "message": "افزایش پیچ"
+   },
+   "shortcut_playPause": {
+      "message": "پخش/مکث"
+   },
+   "shortcut_previousBoundary": {
+      "message": "بازگشت به ابتدای لوپ یا آهنگ"
+   },
+   "shortcut_reducerAmountDown": {
+      "message": "کاهش شدت Vocal Reducer"
+   },
+   "shortcut_reducerAmountUp": {
+      "message": "افزایش شدت Vocal Reducer"
+   },
+   "shortcut_seekBackward": {
+      "message": "عقب رفتن"
+   },
+   "shortcut_seekForward": {
+      "message": "جلو رفتن"
+   },
+   "shortcut_speedDown": {
+      "message": "کاهش سرعت"
+   },
+   "shortcut_speedUp": {
+      "message": "افزایش سرعت"
+   },
+   "shortcut_toggleAbLoop": {
+      "message": "A/B"
+   },
+   "shortcut_toggleEq": {
+      "message": "روشن/خاموش کردن اکولایزر"
+   },
+   "shortcut_toggleLoop": {
+      "message": "تغییر لوپ"
+   },
+   "shortcut_toggleVocalReducer": {
+      "message": "روشن/خاموش کردن Vocal Reducer"
+   },
+   "shortcut_transposeDown": {
+      "message": "کاهش ترانسپوز"
+   },
+   "shortcut_transposeUp": {
+      "message": "افزایش ترانسپوز"
+   },
+   "shortcut_volumeDown": {
+      "message": "کاهش صدا"
+   },
+   "shortcut_volumeUp": {
+      "message": "افزایش صدا"
+   }
+}

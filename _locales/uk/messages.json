@@ -1,0 +1,116 @@
+{
+   "appDesc": {
+      "message": "Змінюйте висоту звуку й швидкість, повторюйте фрагменти та практикуйтеся на YouTube, Spotify й інших підтримуваних сайтах."
+   },
+   "appName": {
+      "message": "Transpose: висота звуку ▸ швидкість ▸ лупи"
+   },
+   "appShortName": {
+      "message": "Transpose"
+   },
+   "extensionMenuOpenCompact": {
+      "message": "Відкрити Compact"
+   },
+   "extensionMenuOpenSide": {
+      "message": "Відкрити Side"
+   },
+   "extensionMenuSettings": {
+      "message": "Налаштування"
+   },
+   "extensionMenuSupport": {
+      "message": "Підтримка"
+   },
+   "shortcut_addMarker": {
+      "message": "Додати маркер"
+   },
+   "shortcut_formantDown": {
+      "message": "Форманта -"
+   },
+   "shortcut_formantUp": {
+      "message": "Форманта +"
+   },
+   "shortcut_marker1": {
+      "message": "маркер 1"
+   },
+   "shortcut_marker2": {
+      "message": "маркер 2"
+   },
+   "shortcut_marker3": {
+      "message": "маркер 3"
+   },
+   "shortcut_marker4": {
+      "message": "маркер 4"
+   },
+   "shortcut_marker5": {
+      "message": "маркер 5"
+   },
+   "shortcut_marker6": {
+      "message": "маркер 6"
+   },
+   "shortcut_marker7": {
+      "message": "маркер 7"
+   },
+   "shortcut_marker8": {
+      "message": "маркер 8"
+   },
+   "shortcut_marker9": {
+      "message": "маркер 9"
+   },
+   "shortcut_nextMarker": {
+      "message": "Наступний маркер"
+   },
+   "shortcut_pitchDown": {
+      "message": "Висота -"
+   },
+   "shortcut_pitchUp": {
+      "message": "Висота +"
+   },
+   "shortcut_playPause": {
+      "message": "Відтворити/Пауза"
+   },
+   "shortcut_previousBoundary": {
+      "message": "Повернутися до початку циклу або пісні"
+   },
+   "shortcut_reducerAmountDown": {
+      "message": "Зменшити Vocal Reducer"
+   },
+   "shortcut_reducerAmountUp": {
+      "message": "Збільшити Vocal Reducer"
+   },
+   "shortcut_seekBackward": {
+      "message": "Перемотати назад"
+   },
+   "shortcut_seekForward": {
+      "message": "Перемотати вперед"
+   },
+   "shortcut_speedDown": {
+      "message": "Зменшити швидкість"
+   },
+   "shortcut_speedUp": {
+      "message": "Збільшити швидкість"
+   },
+   "shortcut_toggleAbLoop": {
+      "message": "A/B"
+   },
+   "shortcut_toggleEq": {
+      "message": "EQ увімк./вимк."
+   },
+   "shortcut_toggleLoop": {
+      "message": "Перемкнути луп"
+   },
+   "shortcut_toggleVocalReducer": {
+      "message": "Увімкнути/вимкнути Vocal Reducer"
+   },
+   "shortcut_transposeDown": {
+      "message": "Транспонування -"
+   },
+   "shortcut_transposeUp": {
+      "message": "Транспонування +"
+   },
+   "shortcut_volumeDown": {
+      "message": "Гучність -"
+   },
+   "shortcut_volumeUp": {
+      "message": "Гучність +"
+   }
+}

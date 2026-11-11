@@ -1,0 +1,66 @@
+Transpose third-party software and model notices
+================================================
+
+This file identifies third-party components distributed in or downloaded by
+the Transpose browser extension. Full license texts are packaged under
+vendor/licenses unless a separate commercial agreement applies.
+
+Open-Unmix PyTorch UMX-HQ models
+  Component: UMX-HQ ONNX model weights downloaded from cdn.transpose.video
+  Upstream: https://github.com/sigsep/open-unmix-pytorch
+  License: MIT
+  Notice: vendor/open-unmix-pytorch-umx-hq.LICENSE.txt
+
+ChordMini / BTC chord classifier
+  Component: btc_chordmini_classifier_fp32.onnx downloaded from
+             cdn.transpose.video and its bundled CQT preprocessing plan
+  Upstreams: https://github.com/ptnghia-j/ChordMini
+             https://github.com/jayg996/BTC-ISMIR19
+  License: MIT
+  Notice: vendor/licenses/chordmini-btc.LICENSE.txt
+
+Beat This! small0 model
+  Component: beat_this_small0_fp32.onnx downloaded from cdn.transpose.video
+             and its bundled mel filterbank
+  Upstream: https://github.com/CPJKU/beat_this
+  License: MIT
+  Notice: vendor/licenses/beat-this-small0.LICENSE.txt
+
+Musetric analysis runtime and export tooling
+  Component: bundled WebGPU CQT, beat-analysis runtime and preprocessing data
+  Upstreams: https://github.com/musetric/musetric
+             https://github.com/musetric/musetric-toolkit
+  License: MIT
+  Notice: vendor/licenses/musetric.LICENSE.txt
+
+ONNX Runtime Web 1.26.0
+  Component: bundled JavaScript and WebAssembly inference runtime
+  Upstream: https://github.com/microsoft/onnxruntime/tree/v1.26.0
+  License: MIT and bundled third-party terms
+  Notices: vendor/licenses/onnxruntime-web-1.26.0.LICENSE.txt
+           vendor/licenses/onnxruntime-web-1.26.0.ThirdPartyNotices.txt
+
+demucs-web 1.0.2
+  Component: bundled constants and FFT/STFT implementation used by the
+             Open-Unmix host-side DSP path
+  Upstream: https://github.com/timcsy/demucs-web
+  License: MIT
+  Notice: vendor/licenses/demucs-web-1.0.2.LICENSE.txt
+
+SoundTouchJS legacy implementation
+  Component: modified SoundTouch implementation embedded in
+             aw-st-processor.js
+  Upstream: https://github.com/cutterbl/SoundTouchJS
+  License: GNU LGPL 2.1 or later
+  Notice: vendor/licenses/soundtouchjs-0.3.0.LICENSE.txt
+  Note: the included license text comes from the legacy 0.3.0 distribution.
+        The readable implementation and local integration changes are shipped
+        in aw-st-processor.js.
+
+Rubber Band Library 4.0.0
+  Component: rb.wasm
+  Upstream: https://github.com/breakfastquay/rubberband
+  License: separate Tune73 Small Publisher Non-Attribution commercial licence
+  Note: the confidential signed agreement is intentionally not included in the
+        extension package. Build provenance is maintained in the Transpose
+        source workspace under third_party/rubberband.

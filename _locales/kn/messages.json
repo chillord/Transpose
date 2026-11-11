@@ -1,0 +1,116 @@
+{
+   "appDesc": {
+      "message": "YouTube, Spotify ಮತ್ತು ಇತರ ಬೆಂಬಲಿತ ತಾಣಗಳಲ್ಲಿ ಶ್ರುತಿ, ವೇಗ ಬದಲಿಸಿ, ಭಾಗಗಳನ್ನು ಮರುಕಳಿಸಿ ಸಂಗೀತ ಅಭ್ಯಾಸ ಮಾಡಿ."
+   },
+   "appName": {
+      "message": "Transpose: ಶ್ರುತಿ ▸ ವೇಗ ▸ ಲೂಪ್"
+   },
+   "appShortName": {
+      "message": "Transpose"
+   },
+   "extensionMenuOpenCompact": {
+      "message": "Compact ತೆರೆಯಿರಿ"
+   },
+   "extensionMenuOpenSide": {
+      "message": "Side ನಲ್ಲಿ Studio ತೆರೆಯಿರಿ"
+   },
+   "extensionMenuSettings": {
+      "message": "ಸೆಟ್ಟಿಂಗ್‌ಗಳು"
+   },
+   "extensionMenuSupport": {
+      "message": "ಸಹಾಯ"
+   },
+   "shortcut_addMarker": {
+      "message": "ಮಾರ್ಕರ್ ಸೇರಿಸಿ"
+   },
+   "shortcut_formantDown": {
+      "message": "ಫಾರ್ಮೆಂಟ್ ಕಡಿಮೆ ಮಾಡಿ"
+   },
+   "shortcut_formantUp": {
+      "message": "ಫಾರ್ಮೆಂಟ್ ಹೆಚ್ಚಿಸಿ"
+   },
+   "shortcut_marker1": {
+      "message": "ಮಾರ್ಕರ್ ೧"
+   },
+   "shortcut_marker2": {
+      "message": "ಮಾರ್ಕರ್ ೨"
+   },
+   "shortcut_marker3": {
+      "message": "ಮಾರ್ಕರ್ ೩"
+   },
+   "shortcut_marker4": {
+      "message": "ಮಾರ್ಕರ್ ೪"
+   },
+   "shortcut_marker5": {
+      "message": "ಮಾರ್ಕರ್ ೫"
+   },
+   "shortcut_marker6": {
+      "message": "ಮಾರ್ಕರ್ ೬"
+   },
+   "shortcut_marker7": {
+      "message": "ಮಾರ್ಕರ್ ೭"
+   },
+   "shortcut_marker8": {
+      "message": "ಮಾರ್ಕರ್ ೮"
+   },
+   "shortcut_marker9": {
+      "message": "ಮಾರ್ಕರ್ ೯"
+   },
+   "shortcut_nextMarker": {
+      "message": "ಮುಂದಿನ ಮಾರ್ಕರ್"
+   },
+   "shortcut_pitchDown": {
+      "message": "ಪಿಚ್ ಕಡಿಮೆ ಮಾಡಿ"
+   },
+   "shortcut_pitchUp": {
+      "message": "ಪಿಚ್ ಹೆಚ್ಚಿಸಿ"
+   },
+   "shortcut_playPause": {
+      "message": "ಪ್ಲೇ/ವಿರಾಮ"
+   },
+   "shortcut_previousBoundary": {
+      "message": "ಲೂಪ್ ಅಥವಾ ಹಾಡಿನ ಆರಂಭಕ್ಕೆ ಹಿಂತಿರುಗಿ"
+   },
+   "shortcut_reducerAmountDown": {
+      "message": "Vocal Reducer ಕಡಿಮೆ"
+   },
+   "shortcut_reducerAmountUp": {
+      "message": "Vocal Reducer ಹೆಚ್ಚು"
+   },
+   "shortcut_seekBackward": {
+      "message": "ಹಿಂದೆ ಹೋಗಿ"
+   },
+   "shortcut_seekForward": {
+      "message": "ಮುಂದೆ ಹೋಗಿ"
+   },
+   "shortcut_speedDown": {
+      "message": "ಸ್ಪೀಡ್ ಕಡಿಮೆ ಮಾಡಿ"
+   },
+   "shortcut_speedUp": {
+      "message": "ಸ್ಪೀಡ್ ಹೆಚ್ಚಿಸಿ"
+   },
+   "shortcut_toggleAbLoop": {
+      "message": "A/B"
+   },
+   "shortcut_toggleEq": {
+      "message": "ಈಕ್ವಲೈಜರ್ ಆನ್/ಆಫ್"
+   },
+   "shortcut_toggleLoop": {
+      "message": "ಲೂಪ್ ಟಾಗಲ್"
+   },
+   "shortcut_toggleVocalReducer": {
+      "message": "Vocal Reducer ಆನ್/ಆಫ್"
+   },
+   "shortcut_transposeDown": {
+      "message": "ಟ್ರಾನ್ಸ್‌ಪೋಸ್ ಕಡಿಮೆ ಮಾಡಿ"
+   },
+   "shortcut_transposeUp": {
+      "message": "ಟ್ರಾನ್ಸ್‌ಪೋಸ್ ಹೆಚ್ಚಿಸಿ"
+   },
+   "shortcut_volumeDown": {
+      "message": "ವಾಲ್ಯೂಮ್ ಕಡಿಮೆ ಮಾಡಿ"
+   },
+   "shortcut_volumeUp": {
+      "message": "ವಾಲ್ಯೂಮ್ ಹೆಚ್ಚಿಸಿ"
+   }
+}
